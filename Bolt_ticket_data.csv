@@ -1,0 +1,1001 @@
+tickets_ID,created_at,category,language,resolution_time_min,csat,priority,channel,customer_tier
+BLT-0,2026-06-02 13:23:00,Account and security,Estonian,33,2,Medium,Live Chat,Free
+BLT-1,2026-06-08 12:35:00,Payment & Refund,Italian,37,4,Low,Live Chat,Free
+BLT-2,2026-06-22 07:21:00,Payment & Refund,Italian,22,5,Urgent,In-App Ticket,Standard
+BLT-3,2026-06-03 09:17:00,Late delivery,Italian,101,4,High,In-App Ticket,Standard
+BLT-4,2026-06-19 19:15:00,Account and security,Italian,41,5,Urgent,In-App Ticket,Premium
+BLT-5,2026-06-10 07:37:00,Account and security,Italian,77,3,High,Live Chat,Standard
+BLT-6,2026-06-13 09:11:00,Late delivery,Italian,12,5,Urgent,Live Chat,Standard
+BLT-7,2026-06-08 14:40:00,Late delivery,Italian,18,5,High,Email,Free
+BLT-8,2026-06-09 12:45:00,Payment & Refund,Italian,27,5,Urgent,Email,Standard
+BLT-9,2026-06-11 09:01:00,Payment & Refund,Italian,15,4,High,Web Form,Free
+BLT-10,2026-06-08 19:08:00,Account and security,Italian,9,4,Medium,In-App Ticket,Free
+BLT-11,2026-06-04 03:18:00,Late delivery,Italian,40,3,Low,Live Chat,Free
+BLT-12,2026-06-12 04:34:00,Trip experience,Estonian,107,4,Medium,Web Form,Free
+BLT-13,2026-06-14 02:25:00,Account and security,Italian,49,4,Low,Live Chat,Free
+BLT-14,2026-06-14 06:05:00,Trip experience,Italian,54,4,Urgent,Live Chat,Premium
+BLT-15,2026-06-14 04:39:00,Payment & Refund,Estonian,28,5,Urgent,Live Chat,Standard
+BLT-16,2026-06-03 09:37:00,Payment & Refund,Italian,32,3,High,Live Chat,Standard
+BLT-17,2026-06-08 08:16:00,Lost item,Italian,14,4,Urgent,In-App Ticket,Premium
+BLT-18,2026-06-11 22:41:00,Account and security,Italian,36,4,Low,Live Chat,Free
+BLT-19,2026-06-08 09:51:00,Late delivery,Italian,10,5,Low,Email,Free
+BLT-20,2026-06-07 21:37:00,Trip experience,Italian,99,4,Medium,Email,Free
+BLT-21,2026-06-17 03:11:00,Account and security,Italian,41,4,High,Live Chat,Standard
+BLT-22,2026-06-19 18:46:00,Lost item,Italian,224,4,Medium,Web Form,Free
+BLT-23,2026-06-08 18:54:00,Account and security,Estonian,23,5,Urgent,Live Chat,Premium
+BLT-24,2026-06-30 03:07:00,Trip experience,Italian,9,3,Urgent,Web Form,Standard
+BLT-25,2026-06-28 02:47:00,Account and security,Italian,31,1,Medium,Live Chat,Free
+BLT-26,2026-06-06 13:22:00,Payment & Refund,Italian,13,4,High,Live Chat,Standard
+BLT-27,2026-06-21 00:41:00,Account and security,Italian,61,4,Low,Live Chat,Free
+BLT-28,2026-06-04 00:57:00,Account and security,Italian,23,4,Urgent,Live Chat,Premium
+BLT-29,2026-06-22 10:28:00,Payment & Refund,Italian,28,4,Urgent,Live Chat,Premium
+BLT-30,2026-06-11 23:42:00,Lost item,Italian,48,3,Low,Live Chat,Free
+BLT-31,2026-06-13 16:58:00,Payment & Refund,Italian,31,4,Low,Email,Free
+BLT-32,2026-06-13 20:17:00,Account and security,Estonian,311,4,Low,Live Chat,Free
+BLT-33,2026-06-02 11:48:00,Payment & Refund,Italian,38,4,Low,Live Chat,Free
+BLT-34,2026-06-20 10:45:00,Payment & Refund,English,12,5,Low,Live Chat,Free
+BLT-35,2026-06-06 14:47:00,Account and security,Italian,66,3,High,Live Chat,Standard
+BLT-36,2026-06-11 16:22:00,Payment & Refund,Italian,20,5,Low,Live Chat,Free
+BLT-37,2026-06-02 15:06:00,Trip experience,Italian,31,4,High,Live Chat,Standard
+BLT-38,2026-06-22 22:18:00,Account and security,Italian,49,4,High,Live Chat,Standard
+BLT-39,2026-06-26 15:18:00,Payment & Refund,Italian,61,3,Low,Live Chat,Free
+BLT-40,2026-06-29 10:44:00,Trip experience,Italian,46,1,Urgent,Live Chat,Premium
+BLT-41,2026-06-23 20:36:00,Payment & Refund,English,44,3,Low,Live Chat,Free
+BLT-42,2026-06-03 14:26:00,Trip experience,Italian,19,4,Urgent,Live Chat,Standard
+BLT-43,2026-06-13 16:05:00,Account and security,Italian,75,2,Low,Live Chat,Free
+BLT-44,2026-06-11 17:19:00,Account and security,Italian,25,5,Low,Live Chat,Free
+BLT-45,2026-06-25 07:11:00,Late delivery,Estonian,13,3,High,Live Chat,Standard
+BLT-46,2026-06-20 15:49:00,Account and security,Italian,35,2,Low,In-App Ticket,Free
+BLT-47,2026-06-27 01:52:00,Payment & Refund,Italian,25,4,Low,Email,Free
+BLT-48,2026-06-28 02:53:00,Trip experience,Italian,29,5,Urgent,Live Chat,Premium
+BLT-49,2026-06-30 15:48:00,Account and security,Italian,55,4,Urgent,Live Chat,Standard
+BLT-50,2026-06-26 17:34:00,Payment & Refund,Estonian,44,3,Urgent,Live Chat,Standard
+BLT-51,2026-06-16 03:00:00,Account and security,Italian,41,4,High,Web Form,Free
+BLT-52,2026-06-24 19:00:00,Payment & Refund,Italian,73,4,Low,Live Chat,Free
+BLT-53,2026-06-10 04:14:00,Payment & Refund,Italian,26,2,High,Live Chat,Standard
+BLT-54,2026-06-18 11:16:00,Account and security,English,24,5,Urgent,Live Chat,Standard
+BLT-55,2026-06-02 18:42:00,Lost item,Italian,40,2,Low,Live Chat,Free
+BLT-56,2026-06-05 15:45:00,Late delivery,Italian,91,4,Low,Live Chat,Free
+BLT-57,2026-06-23 15:27:00,Payment & Refund,Estonian,165,3,Urgent,Live Chat,Premium
+BLT-58,2026-06-27 10:33:00,Late delivery,Italian,46,4,Low,Web Form,Free
+BLT-59,2026-06-13 22:27:00,Payment & Refund,Italian,22,5,Urgent,Live Chat,Premium
+BLT-60,2026-06-20 21:09:00,Account and security,Italian,61,4,High,Live Chat,Standard
+BLT-61,2026-06-18 06:50:00,Payment & Refund,Italian,21,2,Low,Live Chat,Free
+BLT-62,2026-06-19 17:09:00,Trip experience,Italian,5,5,Urgent,Live Chat,Standard
+BLT-63,2026-06-12 13:37:00,Payment & Refund,Italian,174,3,High,In-App Ticket,Standard
+BLT-64,2026-06-25 07:57:00,Payment & Refund,Italian,28,5,Urgent,Live Chat,Premium
+BLT-65,2026-06-28 11:33:00,Late delivery,Italian,48,4,Medium,Live Chat,Free
+BLT-66,2026-06-01 13:12:00,Payment & Refund,Italian,10,5,Low,In-App Ticket,Free
+BLT-67,2026-06-01 19:29:00,Payment & Refund,Italian,23,1,Medium,Live Chat,Free
+BLT-68,2026-06-29 05:40:00,Payment & Refund,English,57,2,Medium,Live Chat,Free
+BLT-69,2026-06-30 00:52:00,Payment & Refund,Italian,27,5,Urgent,Live Chat,Premium
+BLT-70,2026-06-01 22:07:00,Late delivery,Estonian,21,4,Urgent,Email,Premium
+BLT-71,2026-06-15 08:43:00,App Bug,Italian,77,5,Low,Live Chat,Free
+BLT-72,2026-06-14 06:16:00,Payment & Refund,Italian,26,5,High,Live Chat,Standard
+BLT-73,2026-06-12 14:31:00,Late delivery,Italian,5,4,High,Live Chat,Standard
+BLT-74,2026-06-23 13:11:00,Payment & Refund,Italian,108,2,Urgent,Live Chat,Premium
+BLT-75,2026-06-24 18:52:00,Payment & Refund,Italian,12,5,High,Web Form,Standard
+BLT-76,2026-06-25 11:43:00,Trip experience,Italian,35,4,Urgent,Live Chat,Premium
+BLT-77,2026-06-12 02:38:00,Account and security,Italian,51,3,High,Live Chat,Free
+BLT-78,2026-06-09 05:47:00,Trip experience,Italian,11,5,Low,Live Chat,Free
+BLT-79,2026-06-21 10:13:00,Account and security,Italian,32,5,Low,Live Chat,Free
+BLT-80,2026-06-24 00:49:00,Late delivery,Italian,9,4,Medium,Email,Free
+BLT-81,2026-06-21 02:50:00,Account and security,Italian,40,5,Medium,Web Form,Free
+BLT-82,2026-06-27 13:11:00,Late delivery,Italian,15,5,Medium,Live Chat,Free
+BLT-83,2026-06-02 17:53:00,Account and security,Italian,42,3,High,Live Chat,Standard
+BLT-84,2026-06-30 02:20:00,Payment & Refund,Italian,11,5,Low,Email,Free
+BLT-85,2026-06-23 23:37:00,Late delivery,Estonian,25,5,High,Live Chat,Standard
+BLT-86,2026-06-20 00:10:00,Payment & Refund,Italian,173,3,High,Live Chat,Free
+BLT-87,2026-06-29 00:37:00,Payment & Refund,Italian,140,4,Low,Live Chat,Free
+BLT-88,2026-06-21 23:31:00,Trip experience,Italian,14,4,Urgent,Live Chat,Premium
+BLT-89,2026-06-14 09:26:00,Account and security,Italian,16,5,Low,In-App Ticket,Free
+BLT-90,2026-06-17 00:41:00,Payment & Refund,Italian,49,4,High,Live Chat,Standard
+BLT-91,2026-06-28 20:18:00,Account and security,Italian,69,1,Urgent,Live Chat,Premium
+BLT-92,2026-06-01 00:19:00,Payment & Refund,Italian,20,4,High,Email,Standard
+BLT-93,2026-06-04 19:33:00,Payment & Refund,Italian,5,4,Low,Live Chat,Free
+BLT-94,2026-06-23 11:03:00,App Bug,Italian,71,3,High,Email,Standard
+BLT-95,2026-06-03 02:38:00,Payment & Refund,English,21,3,Low,Web Form,Free
+BLT-96,2026-06-19 00:27:00,Late delivery,Italian,25,5,High,Web Form,Free
+BLT-97,2026-06-20 16:12:00,App Bug,Italian,35,3,Low,In-App Ticket,Free
+BLT-98,2026-06-28 22:12:00,Trip experience,Italian,16,5,High,Live Chat,Free
+BLT-99,2026-06-30 09:52:00,Payment & Refund,Italian,14,5,Low,Live Chat,Free
+BLT-100,2026-06-15 20:24:00,Payment & Refund,Italian,23,4,Medium,Live Chat,Free
+BLT-101,2026-06-30 13:38:00,Late delivery,Italian,32,4,Urgent,Live Chat,Premium
+BLT-102,2026-06-21 02:54:00,Account and security,Italian,16,5,Urgent,Live Chat,Premium
+BLT-103,2026-06-27 06:28:00,Payment & Refund,Italian,19,5,Low,Live Chat,Free
+BLT-104,2026-06-11 16:45:00,Late delivery,Italian,19,5,High,Live Chat,Free
+BLT-105,2026-06-11 23:13:00,Account and security,English,16,3,High,Live Chat,Standard
+BLT-106,2026-06-12 20:32:00,App Bug,Italian,49,4,Urgent,Live Chat,Premium
+BLT-107,2026-06-07 17:50:00,Payment & Refund,Italian,108,4,High,Live Chat,Standard
+BLT-108,2026-06-27 17:19:00,Account and security,English,5,5,Urgent,Live Chat,Premium
+BLT-109,2026-06-13 12:50:00,Payment & Refund,Italian,30,3,Medium,Live Chat,Free
+BLT-110,2026-06-24 00:20:00,Payment & Refund,Italian,86,5,Low,Live Chat,Free
+BLT-111,2026-06-14 08:02:00,Late delivery,English,125,4,Low,Live Chat,Free
+BLT-112,2026-06-18 18:33:00,Late delivery,Italian,83,1,Urgent,Live Chat,Premium
+BLT-113,2026-06-05 15:03:00,Late delivery,Italian,75,5,Low,Live Chat,Free
+BLT-114,2026-06-25 06:20:00,Account and security,Italian,51,4,Urgent,Live Chat,Premium
+BLT-115,2026-06-01 20:35:00,Payment & Refund,Italian,51,4,Urgent,Web Form,Premium
+BLT-116,2026-06-10 02:51:00,Account and security,Italian,64,3,High,Live Chat,Standard
+BLT-117,2026-06-21 23:12:00,App Bug,Italian,25,2,Urgent,Live Chat,Standard
+BLT-118,2026-06-29 05:57:00,Payment & Refund,Italian,17,1,Low,In-App Ticket,Free
+BLT-119,2026-06-15 06:48:00,Account and security,Italian,26,5,Low,Live Chat,Free
+BLT-120,2026-06-18 10:15:00,Late delivery,Italian,62,4,High,Web Form,Standard
+BLT-121,2026-06-04 18:38:00,App Bug,Italian,140,3,Urgent,Email,Standard
+BLT-122,2026-06-02 12:09:00,Payment & Refund,Italian,239,1,Low,Email,Free
+BLT-123,2026-06-01 00:07:00,Trip experience,Estonian,45,4,Low,Live Chat,Free
+BLT-124,2026-06-24 06:27:00,App Bug,Italian,37,2,Urgent,In-App Ticket,Premium
+BLT-125,2026-06-03 19:24:00,Trip experience,Italian,66,3,High,Live Chat,Standard
+BLT-126,2026-06-20 12:39:00,Account and security,Italian,32,4,Low,Live Chat,Free
+BLT-127,2026-06-04 10:10:00,Trip experience,Italian,26,5,Low,Live Chat,Free
+BLT-128,2026-06-10 14:20:00,Account and security,Italian,26,3,Low,Live Chat,Free
+BLT-129,2026-06-13 04:18:00,Account and security,Italian,11,4,Medium,Live Chat,Free
+BLT-130,2026-06-06 10:47:00,Payment & Refund,Italian,12,4,High,Live Chat,Free
+BLT-131,2026-06-10 13:31:00,Payment & Refund,Italian,17,4,Low,Live Chat,Free
+BLT-132,2026-06-04 23:43:00,Trip experience,Italian,5,4,Urgent,Live Chat,Standard
+BLT-133,2026-06-18 12:56:00,Payment & Refund,Italian,26,5,Medium,Web Form,Free
+BLT-134,2026-06-20 22:50:00,Late delivery,Italian,267,1,Urgent,Live Chat,Premium
+BLT-135,2026-06-21 10:18:00,Late delivery,Italian,20,4,Urgent,Web Form,Standard
+BLT-136,2026-06-13 00:10:00,Payment & Refund,Italian,26,5,High,Live Chat,Standard
+BLT-137,2026-06-25 05:32:00,Late delivery,Italian,41,3,High,Live Chat,Standard
+BLT-138,2026-06-20 19:59:00,Account and security,Italian,105,3,High,Live Chat,Standard
+BLT-139,2026-06-21 17:44:00,Trip experience,Italian,8,3,High,Live Chat,Standard
+BLT-140,2026-06-25 23:04:00,Payment & Refund,English,25,5,Urgent,In-App Ticket,Premium
+BLT-141,2026-06-22 08:44:00,Account and security,Italian,17,4,Low,Live Chat,Free
+BLT-142,2026-06-18 17:24:00,Account and security,Italian,28,5,Low,Live Chat,Free
+BLT-143,2026-06-22 12:16:00,Trip experience,Italian,27,5,Urgent,Live Chat,Premium
+BLT-144,2026-06-29 11:46:00,Account and security,Estonian,51,3,High,Web Form,Standard
+BLT-145,2026-06-23 06:39:00,Account and security,Italian,18,4,Low,Web Form,Free
+BLT-146,2026-06-24 08:43:00,Payment & Refund,Italian,114,5,Low,Web Form,Free
+BLT-147,2026-06-01 18:42:00,Account and security,Italian,77,4,Low,Live Chat,Free
+BLT-148,2026-06-17 17:08:00,Late delivery,Italian,46,1,Low,Live Chat,Free
+BLT-149,2026-06-08 11:41:00,Late delivery,Italian,36,4,Urgent,Live Chat,Premium
+BLT-150,2026-06-06 05:25:00,Lost item,Italian,187,4,Low,Email,Free
+BLT-151,2026-06-22 02:06:00,App Bug,Italian,65,5,Urgent,Live Chat,Premium
+BLT-152,2026-06-27 14:58:00,Account and security,Italian,24,4,Urgent,Web Form,Standard
+BLT-153,2026-06-26 13:54:00,Late delivery,Italian,84,4,Medium,Email,Free
+BLT-154,2026-06-13 02:38:00,Payment & Refund,Italian,76,3,Urgent,Email,Premium
+BLT-155,2026-06-09 20:42:00,Lost item,Italian,15,5,Medium,Live Chat,Free
+BLT-156,2026-06-05 00:54:00,Late delivery,Italian,64,4,Medium,Web Form,Free
+BLT-157,2026-06-30 07:49:00,Payment & Refund,Estonian,23,2,Urgent,Email,Premium
+BLT-158,2026-06-01 09:26:00,Payment & Refund,Italian,24,3,High,Live Chat,Free
+BLT-159,2026-06-08 01:11:00,Lost item,Italian,31,2,High,Live Chat,Standard
+BLT-160,2026-06-14 10:42:00,Payment & Refund,Italian,52,4,Urgent,In-App Ticket,Standard
+BLT-161,2026-06-03 19:51:00,Payment & Refund,Italian,120,4,Urgent,Email,Premium
+BLT-162,2026-06-03 10:11:00,Trip experience,Italian,34,2,Low,Live Chat,Free
+BLT-163,2026-06-19 17:05:00,Trip experience,Italian,20,5,High,Live Chat,Standard
+BLT-164,2026-06-29 18:36:00,Trip experience,Italian,28,5,Low,Live Chat,Free
+BLT-165,2026-06-10 02:31:00,Payment & Refund,Italian,18,5,Urgent,Web Form,Premium
+BLT-166,2026-06-23 07:33:00,Payment & Refund,Italian,68,4,Medium,Live Chat,Free
+BLT-167,2026-06-28 16:38:00,Account and security,Italian,17,5,High,Live Chat,Standard
+BLT-168,2026-06-08 14:38:00,Account and security,Italian,78,5,High,Live Chat,Standard
+BLT-169,2026-06-19 19:21:00,Account and security,Italian,52,4,Urgent,Email,Premium
+BLT-170,2026-06-28 06:22:00,Lost item,Italian,9,2,High,Live Chat,Standard
+BLT-171,2026-06-14 09:42:00,Account and security,Italian,24,4,High,Live Chat,Standard
+BLT-172,2026-06-06 03:48:00,Trip experience,Italian,14,2,Low,Live Chat,Free
+BLT-173,2026-06-28 13:32:00,Payment & Refund,English,137,5,Medium,In-App Ticket,Free
+BLT-174,2026-06-20 04:12:00,Payment & Refund,Italian,163,3,High,Live Chat,Standard
+BLT-175,2026-06-14 14:19:00,Account and security,Italian,14,4,Medium,In-App Ticket,Free
+BLT-176,2026-06-07 22:20:00,Payment & Refund,Italian,39,4,Low,Web Form,Free
+BLT-177,2026-06-25 22:01:00,Late delivery,Italian,80,4,Medium,In-App Ticket,Free
+BLT-178,2026-06-24 21:53:00,Account and security,Italian,19,4,Urgent,In-App Ticket,Standard
+BLT-179,2026-06-12 04:52:00,Account and security,Italian,20,2,Low,Live Chat,Free
+BLT-180,2026-06-16 02:54:00,Account and security,Italian,26,5,Medium,Live Chat,Free
+BLT-181,2026-06-28 00:55:00,Payment & Refund,Italian,126,3,High,In-App Ticket,Standard
+BLT-182,2026-06-15 19:49:00,Lost item,Italian,55,3,Low,Live Chat,Free
+BLT-183,2026-06-27 13:45:00,Account and security,Italian,53,2,Low,Live Chat,Free
+BLT-184,2026-06-11 11:14:00,Account and security,Italian,57,3,High,In-App Ticket,Standard
+BLT-185,2026-06-12 14:52:00,Payment & Refund,Estonian,29,2,Low,Live Chat,Free
+BLT-186,2026-06-18 14:12:00,Account and security,Italian,30,5,Low,Live Chat,Free
+BLT-187,2026-06-08 10:01:00,Payment & Refund,Estonian,136,3,Urgent,In-App Ticket,Premium
+BLT-188,2026-06-15 23:01:00,Payment & Refund,Italian,20,1,Low,Live Chat,Free
+BLT-189,2026-06-21 13:13:00,Account and security,Italian,20,4,High,Live Chat,Standard
+BLT-190,2026-06-09 17:28:00,Lost item,Italian,27,5,Urgent,Live Chat,Premium
+BLT-191,2026-06-12 10:18:00,Trip experience,Italian,40,3,Low,Email,Free
+BLT-192,2026-06-02 17:50:00,Trip experience,English,11,3,High,In-App Ticket,Standard
+BLT-193,2026-06-29 00:16:00,Payment & Refund,Italian,12,5,Medium,Live Chat,Free
+BLT-194,2026-06-09 23:26:00,Late delivery,Italian,71,5,High,Live Chat,Standard
+BLT-195,2026-06-12 14:40:00,Payment & Refund,Italian,19,3,Urgent,Email,Premium
+BLT-196,2026-06-15 13:17:00,Trip experience,Italian,24,5,High,Live Chat,Standard
+BLT-197,2026-06-24 04:13:00,Payment & Refund,Italian,36,5,Low,Live Chat,Free
+BLT-198,2026-06-29 02:25:00,Lost item,Italian,60,3,High,Email,Standard
+BLT-199,2026-06-15 20:21:00,Trip experience,English,9,5,High,Email,Standard
+BLT-200,2026-06-02 18:23:00,Trip experience,Italian,14,5,Medium,Live Chat,Free
+BLT-201,2026-06-15 19:46:00,Payment & Refund,Italian,17,4,High,Live Chat,Standard
+BLT-202,2026-06-02 03:11:00,Payment & Refund,English,119,4,Medium,Live Chat,Free
+BLT-203,2026-06-23 12:14:00,Account and security,Italian,93,3,Urgent,Live Chat,Premium
+BLT-204,2026-06-28 05:32:00,Payment & Refund,Italian,127,1,Medium,Live Chat,Free
+BLT-205,2026-06-11 21:56:00,Payment & Refund,Italian,44,2,Low,In-App Ticket,Free
+BLT-206,2026-06-20 17:26:00,Account and security,Italian,43,4,Low,Live Chat,Free
+BLT-207,2026-06-08 03:58:00,App Bug,Italian,33,4,Low,In-App Ticket,Free
+BLT-208,2026-06-04 17:02:00,Payment & Refund,Italian,15,3,High,Live Chat,Free
+BLT-209,2026-06-24 13:52:00,Late delivery,Italian,72,1,Low,Web Form,Free
+BLT-210,2026-06-14 18:15:00,Lost item,Italian,47,5,Urgent,Live Chat,Standard
+BLT-211,2026-06-24 09:59:00,Payment & Refund,Italian,70,2,Low,In-App Ticket,Free
+BLT-212,2026-06-26 10:00:00,Lost item,Italian,38,1,Urgent,Live Chat,Premium
+BLT-213,2026-06-25 01:19:00,Payment & Refund,Italian,21,5,High,Live Chat,Free
+BLT-214,2026-06-15 01:00:00,Trip experience,Italian,21,4,Urgent,Live Chat,Premium
+BLT-215,2026-06-29 07:00:00,Payment & Refund,Italian,79,4,High,In-App Ticket,Standard
+BLT-216,2026-06-19 07:23:00,Account and security,Italian,16,1,High,In-App Ticket,Standard
+BLT-217,2026-06-02 21:41:00,Account and security,Italian,42,4,High,Live Chat,Standard
+BLT-218,2026-06-23 08:37:00,Lost item,English,39,1,Low,Email,Free
+BLT-219,2026-06-21 03:05:00,Payment & Refund,Italian,12,4,High,Live Chat,Standard
+BLT-220,2026-06-22 16:11:00,Trip experience,Italian,57,3,Low,In-App Ticket,Free
+BLT-221,2026-06-02 19:48:00,Account and security,English,8,5,High,Live Chat,Standard
+BLT-222,2026-06-21 11:30:00,Account and security,Italian,34,3,Urgent,Live Chat,Premium
+BLT-223,2026-06-07 21:32:00,Payment & Refund,Italian,100,4,Urgent,Email,Standard
+BLT-224,2026-06-14 12:15:00,Account and security,Italian,123,4,High,Live Chat,Standard
+BLT-225,2026-06-05 10:19:00,Account and security,English,22,5,Low,Email,Free
+BLT-226,2026-06-04 00:52:00,Trip experience,Italian,135,3,Low,Live Chat,Free
+BLT-227,2026-06-20 12:50:00,Trip experience,Italian,24,3,High,In-App Ticket,Standard
+BLT-228,2026-06-17 14:02:00,Lost item,Italian,17,5,Urgent,Live Chat,Premium
+BLT-229,2026-06-15 04:14:00,Account and security,Italian,27,5,High,Live Chat,Standard
+BLT-230,2026-06-17 05:46:00,Payment & Refund,Italian,27,5,Urgent,In-App Ticket,Premium
+BLT-231,2026-06-13 23:58:00,Late delivery,Estonian,45,5,Urgent,In-App Ticket,Premium
+BLT-232,2026-06-13 03:54:00,Payment & Refund,English,54,4,High,Web Form,Standard
+BLT-233,2026-06-04 03:24:00,Payment & Refund,Italian,44,4,High,Email,Standard
+BLT-234,2026-06-14 13:23:00,Account and security,Italian,47,4,Urgent,Live Chat,Standard
+BLT-235,2026-06-21 03:41:00,Payment & Refund,Italian,113,1,Low,Live Chat,Free
+BLT-236,2026-06-16 11:33:00,Account and security,Italian,44,3,Medium,In-App Ticket,Free
+BLT-237,2026-06-22 22:33:00,Account and security,Estonian,111,4,Low,Live Chat,Free
+BLT-238,2026-06-08 23:40:00,Payment & Refund,Italian,82,4,Urgent,Web Form,Premium
+BLT-239,2026-06-02 10:57:00,Lost item,Italian,30,4,High,Web Form,Standard
+BLT-240,2026-06-03 05:52:00,Payment & Refund,English,36,4,Low,Live Chat,Free
+BLT-241,2026-06-29 10:07:00,Late delivery,Italian,9,4,Urgent,Live Chat,Premium
+BLT-242,2026-06-21 14:52:00,Payment & Refund,Italian,43,3,High,Live Chat,Standard
+BLT-243,2026-06-08 02:51:00,Late delivery,Italian,66,3,Low,Live Chat,Free
+BLT-244,2026-06-02 15:38:00,Account and security,Italian,51,3,Low,Live Chat,Free
+BLT-245,2026-06-04 11:00:00,Payment & Refund,Italian,31,4,Medium,Live Chat,Free
+BLT-246,2026-06-27 03:21:00,Payment & Refund,Italian,15,5,High,Live Chat,Standard
+BLT-247,2026-06-28 10:13:00,Lost item,English,42,4,Low,Live Chat,Free
+BLT-248,2026-06-02 06:17:00,Late delivery,Italian,26,4,High,Live Chat,Standard
+BLT-249,2026-06-26 20:24:00,Payment & Refund,Estonian,9,5,Low,Web Form,Free
+BLT-250,2026-06-23 23:53:00,Account and security,Italian,35,1,Low,Live Chat,Free
+BLT-251,2026-06-07 05:05:00,Lost item,Italian,43,4,High,Live Chat,Free
+BLT-252,2026-06-11 08:26:00,Payment & Refund,Italian,35,4,Low,Web Form,Free
+BLT-253,2026-06-07 17:13:00,Lost item,Italian,19,5,High,Email,Standard
+BLT-254,2026-06-05 23:49:00,Late delivery,English,13,5,High,Live Chat,Standard
+BLT-255,2026-06-28 00:41:00,Payment & Refund,Italian,24,5,Urgent,Live Chat,Premium
+BLT-256,2026-06-22 17:01:00,Payment & Refund,Italian,47,5,Urgent,In-App Ticket,Premium
+BLT-257,2026-06-19 01:34:00,Late delivery,Italian,23,2,High,Live Chat,Standard
+BLT-258,2026-06-09 18:05:00,Account and security,Italian,13,5,Low,In-App Ticket,Free
+BLT-259,2026-06-22 01:35:00,Late delivery,Italian,44,5,Urgent,Live Chat,Premium
+BLT-260,2026-06-19 15:06:00,Payment & Refund,Italian,99,4,High,Email,Standard
+BLT-261,2026-06-12 16:48:00,Account and security,Italian,23,5,Medium,Live Chat,Free
+BLT-262,2026-06-19 13:11:00,Account and security,Italian,10,1,Low,In-App Ticket,Free
+BLT-263,2026-06-07 10:06:00,Payment & Refund,Italian,19,5,High,Live Chat,Standard
+BLT-264,2026-06-07 08:17:00,Trip experience,Italian,41,2,Medium,Live Chat,Free
+BLT-265,2026-06-26 15:21:00,Payment & Refund,Italian,168,4,High,Live Chat,Standard
+BLT-266,2026-06-28 01:02:00,Late delivery,Estonian,26,5,Low,Live Chat,Free
+BLT-267,2026-06-29 15:36:00,Account and security,Italian,9,5,Low,In-App Ticket,Free
+BLT-268,2026-06-21 21:13:00,Payment & Refund,Italian,65,3,High,Live Chat,Standard
+BLT-269,2026-06-18 01:28:00,Account and security,Italian,18,5,Urgent,Web Form,Premium
+BLT-270,2026-06-17 04:09:00,Payment & Refund,Italian,57,1,Urgent,Live Chat,Premium
+BLT-271,2026-06-19 03:34:00,Payment & Refund,Italian,41,4,Urgent,Live Chat,Standard
+BLT-272,2026-06-12 02:45:00,Payment & Refund,Italian,42,4,Low,Live Chat,Free
+BLT-273,2026-06-06 01:36:00,Payment & Refund,English,84,4,High,Live Chat,Standard
+BLT-274,2026-06-03 22:32:00,Trip experience,Italian,48,4,Urgent,Live Chat,Standard
+BLT-275,2026-06-01 17:37:00,Account and security,Italian,19,3,Medium,Live Chat,Free
+BLT-276,2026-06-23 14:15:00,Trip experience,Estonian,16,4,Low,Email,Free
+BLT-277,2026-06-14 00:38:00,Payment & Refund,Italian,140,3,High,Live Chat,Standard
+BLT-278,2026-06-03 07:03:00,Late delivery,Italian,136,4,High,In-App Ticket,Standard
+BLT-279,2026-06-13 04:39:00,Payment & Refund,Estonian,25,4,High,Live Chat,Free
+BLT-280,2026-06-16 09:09:00,Payment & Refund,Italian,98,3,Low,Live Chat,Free
+BLT-281,2026-06-25 09:49:00,Late delivery,Italian,36,1,Low,Live Chat,Free
+BLT-282,2026-06-15 02:18:00,Account and security,Italian,17,5,Low,Live Chat,Free
+BLT-283,2026-06-11 02:43:00,Trip experience,Italian,54,1,High,Live Chat,Free
+BLT-284,2026-06-03 08:44:00,Trip experience,Italian,11,4,High,Live Chat,Standard
+BLT-285,2026-06-25 22:14:00,Account and security,Italian,62,3,Low,Live Chat,Free
+BLT-286,2026-06-29 05:58:00,Account and security,Italian,157,4,High,In-App Ticket,Standard
+BLT-287,2026-06-12 17:18:00,Payment & Refund,Italian,33,5,Medium,Live Chat,Free
+BLT-288,2026-06-16 13:56:00,Payment & Refund,Italian,173,3,High,Live Chat,Standard
+BLT-289,2026-06-03 19:31:00,Account and security,Italian,91,4,High,In-App Ticket,Standard
+BLT-290,2026-06-19 13:23:00,Account and security,Italian,28,5,Medium,Email,Free
+BLT-291,2026-06-13 16:29:00,Payment & Refund,Italian,33,4,High,Live Chat,Free
+BLT-292,2026-06-18 09:20:00,Trip experience,Estonian,279,4,High,Live Chat,Standard
+BLT-293,2026-06-21 23:30:00,Payment & Refund,Italian,113,3,Medium,Live Chat,Free
+BLT-294,2026-06-05 03:30:00,Account and security,Estonian,12,4,Medium,Email,Free
+BLT-295,2026-06-19 20:57:00,Payment & Refund,English,12,5,Urgent,Email,Standard
+BLT-296,2026-06-28 06:52:00,Payment & Refund,Italian,179,4,Urgent,Live Chat,Standard
+BLT-297,2026-06-28 18:16:00,App Bug,Italian,20,4,Urgent,Live Chat,Standard
+BLT-298,2026-06-23 20:51:00,Late delivery,Italian,66,2,Medium,Live Chat,Free
+BLT-299,2026-06-02 04:26:00,Late delivery,English,92,1,Urgent,Live Chat,Premium
+BLT-300,2026-06-04 20:48:00,Trip experience,Estonian,11,4,Medium,Web Form,Free
+BLT-301,2026-06-15 01:56:00,Payment & Refund,Italian,27,4,Urgent,Live Chat,Premium
+BLT-302,2026-06-18 20:02:00,Late delivery,Italian,89,1,Low,Web Form,Free
+BLT-303,2026-06-28 20:30:00,Account and security,Italian,9,4,Medium,Live Chat,Free
+BLT-304,2026-06-15 05:21:00,Late delivery,Italian,5,3,Urgent,In-App Ticket,Premium
+BLT-305,2026-06-11 16:22:00,App Bug,Italian,7,4,High,Live Chat,Standard
+BLT-306,2026-06-02 08:06:00,Account and security,Italian,87,1,Medium,Live Chat,Free
+BLT-307,2026-06-25 21:04:00,Payment & Refund,Estonian,60,5,Low,Live Chat,Free
+BLT-308,2026-06-09 12:42:00,Lost item,Italian,17,3,Urgent,Email,Standard
+BLT-309,2026-06-12 13:20:00,Payment & Refund,Italian,50,4,High,Web Form,Standard
+BLT-310,2026-06-17 07:18:00,Account and security,Italian,52,3,High,In-App Ticket,Standard
+BLT-311,2026-06-11 22:16:00,Account and security,Italian,25,4,Low,In-App Ticket,Free
+BLT-312,2026-06-11 19:35:00,Account and security,Italian,27,4,Urgent,Live Chat,Standard
+BLT-313,2026-06-18 20:23:00,Account and security,Italian,57,4,Low,Web Form,Free
+BLT-314,2026-06-07 12:59:00,Payment & Refund,Italian,84,5,Medium,Live Chat,Free
+BLT-315,2026-06-28 18:47:00,Payment & Refund,Italian,159,2,High,Live Chat,Standard
+BLT-316,2026-06-18 10:12:00,Account and security,Italian,16,3,Medium,Web Form,Free
+BLT-317,2026-06-03 01:22:00,Payment & Refund,Italian,132,4,Medium,In-App Ticket,Free
+BLT-318,2026-06-18 23:20:00,Payment & Refund,Italian,11,2,Urgent,In-App Ticket,Premium
+BLT-319,2026-06-19 17:27:00,Account and security,Italian,11,4,High,Email,Standard
+BLT-320,2026-06-15 10:35:00,Late delivery,Italian,37,3,Medium,Live Chat,Free
+BLT-321,2026-06-18 11:39:00,Account and security,Italian,48,5,High,Email,Standard
+BLT-322,2026-06-21 07:57:00,Late delivery,Italian,28,4,Urgent,Live Chat,Premium
+BLT-323,2026-06-26 13:18:00,Trip experience,Italian,22,4,Low,Email,Free
+BLT-324,2026-06-11 00:43:00,Payment & Refund,Estonian,22,5,Urgent,Live Chat,Premium
+BLT-325,2026-06-10 21:29:00,Trip experience,Italian,12,5,High,Live Chat,Standard
+BLT-326,2026-06-20 04:54:00,Late delivery,Italian,36,1,High,Live Chat,Standard
+BLT-327,2026-06-21 01:24:00,Payment & Refund,Estonian,16,5,Low,Live Chat,Free
+BLT-328,2026-06-05 19:11:00,Late delivery,Italian,27,4,Urgent,Live Chat,Premium
+BLT-329,2026-06-24 23:08:00,Late delivery,Italian,47,4,Medium,In-App Ticket,Free
+BLT-330,2026-06-17 19:08:00,Trip experience,Italian,82,4,High,Live Chat,Standard
+BLT-331,2026-06-11 03:35:00,Trip experience,Italian,49,3,Urgent,Email,Standard
+BLT-332,2026-06-23 12:07:00,Payment & Refund,Italian,24,5,Low,Live Chat,Free
+BLT-333,2026-06-19 20:01:00,Payment & Refund,Estonian,116,4,Low,In-App Ticket,Free
+BLT-334,2026-06-14 22:28:00,Late delivery,English,11,5,Low,Live Chat,Free
+BLT-335,2026-06-11 01:35:00,Account and security,Italian,54,4,Urgent,Live Chat,Standard
+BLT-336,2026-06-13 17:57:00,Lost item,Italian,50,4,Urgent,In-App Ticket,Premium
+BLT-337,2026-06-06 22:41:00,Lost item,Italian,31,3,High,Email,Standard
+BLT-338,2026-06-30 02:00:00,Account and security,Estonian,29,4,Low,Web Form,Free
+BLT-339,2026-06-04 20:36:00,Payment & Refund,Italian,9,5,Low,Email,Free
+BLT-340,2026-06-24 08:09:00,Account and security,Italian,21,1,Low,Email,Free
+BLT-341,2026-06-08 17:00:00,Payment & Refund,English,241,3,Urgent,In-App Ticket,Premium
+BLT-342,2026-06-30 12:51:00,Payment & Refund,Italian,177,4,High,Live Chat,Standard
+BLT-343,2026-06-08 00:23:00,Late delivery,Italian,25,5,Urgent,In-App Ticket,Standard
+BLT-344,2026-06-24 22:07:00,Late delivery,Italian,6,2,Low,Live Chat,Free
+BLT-345,2026-06-02 01:47:00,Account and security,Italian,5,4,Low,In-App Ticket,Free
+BLT-346,2026-06-29 17:00:00,App Bug,Italian,15,1,Medium,Email,Free
+BLT-347,2026-06-22 07:05:00,Lost item,Estonian,36,4,Urgent,Live Chat,Premium
+BLT-348,2026-06-09 12:27:00,Account and security,Italian,10,4,Low,Web Form,Free
+BLT-349,2026-06-06 00:58:00,Lost item,Italian,19,4,Low,Web Form,Free
+BLT-350,2026-06-19 14:35:00,Account and security,Italian,51,2,Medium,Live Chat,Free
+BLT-351,2026-06-03 07:01:00,Account and security,Italian,47,4,High,In-App Ticket,Standard
+BLT-352,2026-06-09 12:29:00,Payment & Refund,Italian,20,5,Medium,Live Chat,Free
+BLT-353,2026-06-13 07:27:00,Account and security,Estonian,57,1,Low,In-App Ticket,Free
+BLT-354,2026-06-07 02:42:00,Late delivery,Italian,56,4,Medium,In-App Ticket,Free
+BLT-355,2026-06-27 04:41:00,Payment & Refund,Estonian,48,4,Medium,Live Chat,Free
+BLT-356,2026-06-01 20:08:00,Payment & Refund,Italian,52,5,High,Live Chat,Free
+BLT-357,2026-06-18 04:41:00,Account and security,Italian,120,4,Urgent,Web Form,Premium
+BLT-358,2026-06-21 09:34:00,Account and security,Italian,48,1,Low,In-App Ticket,Free
+BLT-359,2026-06-04 05:41:00,App Bug,Italian,12,5,Medium,Live Chat,Free
+BLT-360,2026-06-05 18:45:00,Trip experience,Italian,24,5,Low,Live Chat,Free
+BLT-361,2026-06-29 19:38:00,Late delivery,Italian,83,5,Urgent,Live Chat,Premium
+BLT-362,2026-06-16 18:59:00,Payment & Refund,Italian,8,3,High,Web Form,Standard
+BLT-363,2026-06-20 03:32:00,Payment & Refund,English,92,3,High,Live Chat,Standard
+BLT-364,2026-06-21 16:10:00,Account and security,English,61,3,Urgent,Live Chat,Premium
+BLT-365,2026-06-01 21:06:00,Late delivery,Italian,43,4,Urgent,Live Chat,Premium
+BLT-366,2026-06-23 23:02:00,App Bug,Italian,25,4,High,Live Chat,Standard
+BLT-367,2026-06-23 07:59:00,Trip experience,Italian,81,5,Low,In-App Ticket,Free
+BLT-368,2026-06-15 09:48:00,App Bug,Italian,10,5,Medium,Live Chat,Free
+BLT-369,2026-06-17 15:06:00,App Bug,Italian,15,4,High,In-App Ticket,Standard
+BLT-370,2026-06-21 16:10:00,Payment & Refund,Italian,29,3,Low,Web Form,Free
+BLT-371,2026-06-02 03:19:00,Payment & Refund,Italian,104,3,Low,Live Chat,Free
+BLT-372,2026-06-12 09:53:00,Account and security,Italian,90,1,Urgent,Live Chat,Premium
+BLT-373,2026-06-15 03:00:00,Account and security,Italian,137,4,Urgent,Live Chat,Standard
+BLT-374,2026-06-07 05:16:00,Payment & Refund,Italian,41,2,Urgent,Live Chat,Premium
+BLT-375,2026-06-03 23:19:00,Payment & Refund,Italian,15,5,Medium,Live Chat,Free
+BLT-376,2026-06-22 02:53:00,Late delivery,Italian,43,4,Low,Email,Free
+BLT-377,2026-06-04 10:27:00,Payment & Refund,Italian,122,3,Low,Live Chat,Free
+BLT-378,2026-06-28 15:58:00,Account and security,Italian,11,3,High,In-App Ticket,Free
+BLT-379,2026-06-08 01:52:00,Payment & Refund,Italian,77,5,Medium,Web Form,Free
+BLT-380,2026-06-12 22:13:00,Trip experience,Italian,42,4,High,Live Chat,Standard
+BLT-381,2026-06-01 16:25:00,Payment & Refund,Italian,15,5,High,Live Chat,Standard
+BLT-382,2026-06-01 00:41:00,App Bug,Italian,9,4,High,Email,Standard
+BLT-383,2026-06-17 06:01:00,Payment & Refund,Italian,12,5,Low,Live Chat,Free
+BLT-384,2026-06-11 13:57:00,Account and security,English,9,4,Low,Live Chat,Free
+BLT-385,2026-06-27 21:25:00,Payment & Refund,Italian,15,3,Low,Live Chat,Free
+BLT-386,2026-06-09 12:57:00,Payment & Refund,Italian,30,5,Low,Live Chat,Free
+BLT-387,2026-06-20 02:06:00,Payment & Refund,Italian,21,2,High,Live Chat,Standard
+BLT-388,2026-06-29 22:38:00,Payment & Refund,Italian,92,1,Low,Live Chat,Free
+BLT-389,2026-06-14 01:26:00,Lost item,Italian,117,1,Urgent,Live Chat,Standard
+BLT-390,2026-06-14 23:40:00,Trip experience,Italian,14,4,Low,Live Chat,Free
+BLT-391,2026-06-09 20:17:00,Trip experience,English,19,4,Low,Live Chat,Free
+BLT-392,2026-06-27 02:43:00,Payment & Refund,Estonian,48,4,Medium,Live Chat,Free
+BLT-393,2026-06-30 14:45:00,Account and security,Italian,29,5,High,In-App Ticket,Standard
+BLT-394,2026-06-01 19:19:00,Late delivery,Italian,31,2,High,In-App Ticket,Standard
+BLT-395,2026-06-06 00:43:00,Trip experience,Italian,34,4,Low,Live Chat,Free
+BLT-396,2026-06-08 11:03:00,Late delivery,Italian,19,5,Urgent,Live Chat,Premium
+BLT-397,2026-06-23 07:01:00,Account and security,Italian,45,4,Urgent,Live Chat,Premium
+BLT-398,2026-06-14 00:06:00,Payment & Refund,Italian,48,3,Low,Email,Free
+BLT-399,2026-06-04 02:48:00,Late delivery,Italian,100,4,Low,Live Chat,Free
+BLT-400,2026-06-24 04:49:00,Lost item,Italian,37,3,Low,Live Chat,Free
+BLT-401,2026-06-01 21:13:00,Trip experience,Italian,13,5,Low,Live Chat,Free
+BLT-402,2026-06-22 15:58:00,Trip experience,English,8,4,Medium,Live Chat,Free
+BLT-403,2026-06-01 20:50:00,Payment & Refund,Italian,98,2,Urgent,Live Chat,Standard
+BLT-404,2026-06-26 07:53:00,Payment & Refund,English,69,4,Urgent,Live Chat,Standard
+BLT-405,2026-06-12 20:32:00,Lost item,Italian,36,3,High,Live Chat,Standard
+BLT-406,2026-06-20 16:49:00,Trip experience,Estonian,187,2,High,Live Chat,Standard
+BLT-407,2026-06-01 15:56:00,Late delivery,English,34,4,High,Live Chat,Standard
+BLT-408,2026-06-24 19:18:00,Trip experience,Estonian,126,4,Urgent,Email,Standard
+BLT-409,2026-06-08 03:31:00,Payment & Refund,Italian,8,5,High,In-App Ticket,Standard
+BLT-410,2026-06-22 04:19:00,Late delivery,Italian,29,5,High,Email,Standard
+BLT-411,2026-06-18 05:40:00,Account and security,Italian,84,3,Urgent,Live Chat,Premium
+BLT-412,2026-06-08 00:00:00,Late delivery,Italian,5,4,Medium,Live Chat,Free
+BLT-413,2026-06-18 04:31:00,Payment & Refund,Estonian,5,4,Urgent,In-App Ticket,Premium
+BLT-414,2026-06-03 22:20:00,Lost item,English,32,4,Low,Live Chat,Free
+BLT-415,2026-06-25 16:52:00,App Bug,English,23,5,Low,Live Chat,Free
+BLT-416,2026-06-15 13:02:00,Payment & Refund,Italian,79,4,High,Live Chat,Standard
+BLT-417,2026-06-26 01:23:00,Payment & Refund,English,28,4,Low,Live Chat,Free
+BLT-418,2026-06-14 14:12:00,Payment & Refund,English,76,3,Medium,Live Chat,Free
+BLT-419,2026-06-20 07:08:00,Late delivery,Italian,56,3,Low,Live Chat,Free
+BLT-420,2026-06-21 07:14:00,Late delivery,Italian,39,3,Medium,Live Chat,Free
+BLT-421,2026-06-14 00:04:00,Account and security,Italian,73,3,Urgent,Live Chat,Standard
+BLT-422,2026-06-25 12:03:00,Trip experience,Italian,49,4,High,Web Form,Free
+BLT-423,2026-06-11 13:04:00,Late delivery,Italian,22,4,High,Live Chat,Standard
+BLT-424,2026-06-14 16:19:00,Payment & Refund,Italian,32,4,Medium,Live Chat,Free
+BLT-425,2026-06-22 03:45:00,App Bug,Italian,47,4,Urgent,Live Chat,Premium
+BLT-426,2026-06-10 11:24:00,Account and security,Italian,8,3,Low,In-App Ticket,Free
+BLT-427,2026-06-16 17:32:00,Payment & Refund,Italian,41,3,Medium,In-App Ticket,Free
+BLT-428,2026-06-09 22:38:00,Lost item,Italian,11,5,Urgent,Live Chat,Premium
+BLT-429,2026-06-15 19:27:00,App Bug,Italian,7,4,High,Live Chat,Standard
+BLT-430,2026-06-11 21:59:00,Payment & Refund,Italian,52,4,Urgent,In-App Ticket,Premium
+BLT-431,2026-06-23 17:42:00,Trip experience,Italian,15,4,Urgent,Live Chat,Standard
+BLT-432,2026-06-02 10:05:00,Payment & Refund,Italian,61,1,Low,In-App Ticket,Free
+BLT-433,2026-06-08 21:37:00,Lost item,Italian,60,3,Low,Email,Free
+BLT-434,2026-06-22 09:32:00,Payment & Refund,English,28,4,Medium,Web Form,Free
+BLT-435,2026-06-07 04:00:00,Payment & Refund,Italian,38,3,Medium,In-App Ticket,Free
+BLT-436,2026-06-25 15:18:00,Late delivery,Italian,5,5,Urgent,Live Chat,Premium
+BLT-437,2026-06-14 22:04:00,Account and security,Estonian,40,4,Urgent,Live Chat,Standard
+BLT-438,2026-06-29 18:58:00,Lost item,Italian,56,1,Low,Live Chat,Free
+BLT-439,2026-06-12 13:34:00,Payment & Refund,Estonian,44,3,Urgent,Live Chat,Standard
+BLT-440,2026-06-12 18:15:00,Account and security,Italian,19,4,Low,Live Chat,Free
+BLT-441,2026-06-20 02:16:00,Payment & Refund,Italian,34,4,Urgent,Live Chat,Premium
+BLT-442,2026-06-19 21:09:00,Account and security,Italian,7,5,Low,Live Chat,Free
+BLT-443,2026-06-03 07:25:00,Payment & Refund,Italian,11,4,Medium,Live Chat,Free
+BLT-444,2026-06-15 15:12:00,Payment & Refund,English,39,5,Urgent,In-App Ticket,Premium
+BLT-445,2026-06-09 06:47:00,Payment & Refund,English,23,4,Medium,Live Chat,Free
+BLT-446,2026-06-29 17:24:00,Account and security,Italian,27,5,High,Live Chat,Standard
+BLT-447,2026-06-24 01:37:00,Account and security,Italian,51,3,High,Live Chat,Standard
+BLT-448,2026-06-22 18:01:00,Trip experience,English,32,5,Low,Email,Free
+BLT-449,2026-06-29 19:46:00,Late delivery,Estonian,49,2,Low,Email,Free
+BLT-450,2026-06-03 08:24:00,Late delivery,Italian,22,4,Urgent,In-App Ticket,Premium
+BLT-451,2026-06-09 13:27:00,Account and security,Italian,65,1,Low,In-App Ticket,Free
+BLT-452,2026-06-21 08:25:00,Payment & Refund,Italian,27,4,Urgent,In-App Ticket,Premium
+BLT-453,2026-06-04 08:03:00,Late delivery,Estonian,134,3,High,Email,Standard
+BLT-454,2026-06-10 01:23:00,Lost item,Italian,43,3,Low,Email,Free
+BLT-455,2026-06-23 02:37:00,Account and security,Italian,24,2,High,Email,Free
+BLT-456,2026-06-14 10:34:00,Trip experience,Italian,42,2,Medium,Live Chat,Free
+BLT-457,2026-06-10 05:15:00,Account and security,Italian,58,3,Urgent,Live Chat,Premium
+BLT-458,2026-06-24 05:55:00,Payment & Refund,Italian,42,3,Urgent,In-App Ticket,Standard
+BLT-459,2026-06-12 04:07:00,Late delivery,Italian,61,1,High,Live Chat,Standard
+BLT-460,2026-06-08 23:18:00,Payment & Refund,Italian,30,1,High,Live Chat,Standard
+BLT-461,2026-06-04 01:43:00,Payment & Refund,Italian,56,3,Low,Email,Free
+BLT-462,2026-06-20 09:41:00,Account and security,Italian,34,4,Urgent,Live Chat,Premium
+BLT-463,2026-06-02 10:53:00,Trip experience,Estonian,44,4,High,Live Chat,Standard
+BLT-464,2026-06-07 13:32:00,Trip experience,Italian,12,5,Low,Live Chat,Free
+BLT-465,2026-06-22 09:04:00,Payment & Refund,Italian,54,2,Urgent,In-App Ticket,Premium
+BLT-466,2026-06-15 14:11:00,Lost item,Italian,8,5,High,Web Form,Standard
+BLT-467,2026-06-22 03:34:00,Payment & Refund,Italian,58,1,Low,Live Chat,Free
+BLT-468,2026-06-05 03:36:00,Payment & Refund,English,22,4,Urgent,In-App Ticket,Premium
+BLT-469,2026-06-13 16:15:00,Trip experience,Italian,49,5,Urgent,Live Chat,Premium
+BLT-470,2026-06-14 02:38:00,Trip experience,English,16,4,Urgent,Live Chat,Premium
+BLT-471,2026-06-19 04:20:00,Trip experience,Italian,47,2,Urgent,Live Chat,Standard
+BLT-472,2026-06-27 04:08:00,Late delivery,Italian,39,5,Low,Live Chat,Free
+BLT-473,2026-06-22 00:17:00,Account and security,Italian,39,4,Urgent,Live Chat,Premium
+BLT-474,2026-06-21 19:18:00,Payment & Refund,Italian,29,5,Low,Live Chat,Free
+BLT-475,2026-06-02 17:10:00,Payment & Refund,Italian,19,5,High,Live Chat,Standard
+BLT-476,2026-06-05 03:50:00,Account and security,English,50,3,Low,Live Chat,Free
+BLT-477,2026-06-13 11:27:00,Late delivery,Italian,81,3,Urgent,Live Chat,Premium
+BLT-478,2026-06-05 08:58:00,App Bug,Italian,31,5,Urgent,In-App Ticket,Premium
+BLT-479,2026-06-04 12:54:00,Account and security,Estonian,19,4,High,Live Chat,Standard
+BLT-480,2026-06-20 01:15:00,Account and security,Italian,56,5,Urgent,Live Chat,Standard
+BLT-481,2026-06-21 16:46:00,Payment & Refund,Estonian,29,5,High,Live Chat,Free
+BLT-482,2026-06-04 22:30:00,Late delivery,Italian,15,5,Low,Live Chat,Free
+BLT-483,2026-06-22 15:04:00,Account and security,Italian,82,3,High,Live Chat,Standard
+BLT-484,2026-06-06 06:58:00,Account and security,English,18,4,Urgent,In-App Ticket,Standard
+BLT-485,2026-06-11 09:04:00,Trip experience,Italian,316,2,Low,Live Chat,Free
+BLT-486,2026-06-27 07:12:00,Late delivery,Italian,77,3,Urgent,Live Chat,Premium
+BLT-487,2026-06-24 12:06:00,Late delivery,Italian,30,3,Medium,Live Chat,Free
+BLT-488,2026-06-02 05:45:00,Account and security,Italian,24,2,Urgent,In-App Ticket,Premium
+BLT-489,2026-06-04 11:57:00,Account and security,Estonian,7,5,Low,In-App Ticket,Free
+BLT-490,2026-06-18 22:30:00,Trip experience,Italian,26,1,Urgent,Web Form,Premium
+BLT-491,2026-06-03 22:37:00,Trip experience,Italian,23,4,High,Live Chat,Standard
+BLT-492,2026-06-13 03:01:00,Payment & Refund,Italian,43,4,Low,Live Chat,Free
+BLT-493,2026-06-16 00:26:00,Payment & Refund,Italian,23,5,Low,Live Chat,Free
+BLT-494,2026-06-26 04:24:00,Payment & Refund,Italian,31,4,Urgent,In-App Ticket,Premium
+BLT-495,2026-06-05 06:25:00,Payment & Refund,Italian,42,4,Urgent,Email,Standard
+BLT-496,2026-06-09 03:54:00,Payment & Refund,Italian,22,3,High,Live Chat,Standard
+BLT-497,2026-06-22 03:29:00,Late delivery,English,35,2,Urgent,Live Chat,Premium
+BLT-498,2026-06-14 21:16:00,App Bug,Italian,38,3,Medium,Live Chat,Free
+BLT-499,2026-06-03 06:55:00,Account and security,Italian,33,5,Urgent,Web Form,Premium
+BLT-500,2026-06-06 06:23:00,Payment & Refund,Italian,40,5,Medium,Live Chat,Free
+BLT-501,2026-06-25 15:17:00,Payment & Refund,Italian,5,5,Urgent,Live Chat,Standard
+BLT-502,2026-06-17 02:22:00,Late delivery,Italian,122,5,Low,Web Form,Free
+BLT-503,2026-06-25 13:49:00,Account and security,Italian,89,5,Urgent,Live Chat,Standard
+BLT-504,2026-06-14 20:50:00,Account and security,Italian,29,3,High,Email,Standard
+BLT-505,2026-06-06 01:42:00,Payment & Refund,Italian,52,3,Low,Live Chat,Free
+BLT-506,2026-06-12 14:53:00,Lost item,English,20,4,Urgent,Web Form,Premium
+BLT-507,2026-06-03 09:02:00,Late delivery,English,23,4,Low,In-App Ticket,Free
+BLT-508,2026-06-30 18:01:00,Payment & Refund,Italian,59,4,Low,In-App Ticket,Free
+BLT-509,2026-06-30 23:21:00,Payment & Refund,Italian,126,1,Low,Live Chat,Free
+BLT-510,2026-06-08 04:49:00,Account and security,Italian,30,5,Urgent,Live Chat,Premium
+BLT-511,2026-06-06 17:47:00,Account and security,Italian,54,4,High,Live Chat,Standard
+BLT-512,2026-06-03 17:10:00,Trip experience,Estonian,52,1,High,Live Chat,Standard
+BLT-513,2026-06-03 21:22:00,Account and security,English,39,2,High,Live Chat,Standard
+BLT-514,2026-06-21 01:48:00,Late delivery,Italian,76,3,Low,Web Form,Free
+BLT-515,2026-06-28 07:55:00,Account and security,Italian,49,1,Urgent,Email,Premium
+BLT-516,2026-06-08 21:24:00,Trip experience,Italian,62,3,Medium,Live Chat,Free
+BLT-517,2026-06-16 14:19:00,Account and security,Italian,71,3,Low,Live Chat,Free
+BLT-518,2026-06-28 16:23:00,Payment & Refund,Italian,7,5,Urgent,Live Chat,Premium
+BLT-519,2026-06-17 10:43:00,Payment & Refund,Italian,8,2,Medium,Web Form,Free
+BLT-520,2026-06-23 02:38:00,Account and security,English,67,5,Low,Live Chat,Free
+BLT-521,2026-06-01 09:07:00,Account and security,Italian,69,4,Urgent,In-App Ticket,Premium
+BLT-522,2026-06-07 23:17:00,Payment & Refund,Italian,45,4,Low,Web Form,Free
+BLT-523,2026-06-03 11:59:00,App Bug,Italian,25,5,Medium,Web Form,Free
+BLT-524,2026-06-05 19:06:00,Payment & Refund,Italian,26,5,Medium,Email,Free
+BLT-525,2026-06-23 15:04:00,Late delivery,Estonian,17,4,High,Live Chat,Free
+BLT-526,2026-06-28 10:09:00,Account and security,Italian,35,4,Urgent,In-App Ticket,Standard
+BLT-527,2026-06-26 12:22:00,Payment & Refund,Italian,35,3,Urgent,Live Chat,Premium
+BLT-528,2026-06-10 00:01:00,Payment & Refund,Italian,37,5,Urgent,Live Chat,Premium
+BLT-529,2026-06-05 03:40:00,Payment & Refund,Italian,78,5,Medium,Live Chat,Free
+BLT-530,2026-06-22 13:12:00,Account and security,Italian,41,4,Medium,Live Chat,Free
+BLT-531,2026-06-22 22:01:00,Trip experience,Italian,138,4,Urgent,In-App Ticket,Premium
+BLT-532,2026-06-04 07:28:00,Payment & Refund,Italian,31,4,Urgent,Email,Premium
+BLT-533,2026-06-27 20:23:00,Late delivery,Italian,45,1,High,Live Chat,Free
+BLT-534,2026-06-22 11:02:00,Account and security,Italian,40,2,Medium,Live Chat,Free
+BLT-535,2026-06-12 10:36:00,Trip experience,Italian,34,4,Medium,In-App Ticket,Free
+BLT-536,2026-06-16 21:45:00,Account and security,Italian,56,1,High,Email,Standard
+BLT-537,2026-06-15 08:23:00,Payment & Refund,Italian,21,2,Urgent,Live Chat,Standard
+BLT-538,2026-06-02 10:39:00,Trip experience,Italian,7,2,Low,Live Chat,Free
+BLT-539,2026-06-19 08:21:00,Trip experience,Estonian,17,5,High,In-App Ticket,Standard
+BLT-540,2026-06-11 11:32:00,Late delivery,Italian,28,5,High,Live Chat,Standard
+BLT-541,2026-06-28 10:51:00,Account and security,English,53,4,Low,Live Chat,Free
+BLT-542,2026-06-26 19:08:00,Payment & Refund,Italian,73,3,High,Live Chat,Standard
+BLT-543,2026-06-05 02:34:00,Payment & Refund,Italian,6,4,Urgent,Email,Standard
+BLT-544,2026-06-03 04:39:00,Account and security,Italian,11,4,Low,Live Chat,Free
+BLT-545,2026-06-10 04:08:00,Trip experience,Italian,27,5,High,In-App Ticket,Free
+BLT-546,2026-06-01 00:19:00,Account and security,English,89,4,Urgent,Live Chat,Standard
+BLT-547,2026-06-30 20:38:00,Trip experience,Italian,39,4,Medium,Live Chat,Free
+BLT-548,2026-06-21 21:54:00,Account and security,Italian,22,4,Low,Web Form,Free
+BLT-549,2026-06-04 17:26:00,Account and security,Italian,14,5,Urgent,Live Chat,Standard
+BLT-550,2026-06-27 01:15:00,Payment & Refund,Italian,33,2,High,Live Chat,Free
+BLT-551,2026-06-06 17:15:00,Trip experience,Italian,16,4,High,Live Chat,Standard
+BLT-552,2026-06-08 23:21:00,Payment & Refund,Italian,391,2,Urgent,Live Chat,Premium
+BLT-553,2026-06-28 03:25:00,Account and security,Italian,78,3,High,Web Form,Standard
+BLT-554,2026-06-02 04:59:00,Trip experience,Italian,69,5,Urgent,Live Chat,Standard
+BLT-555,2026-06-13 19:25:00,Account and security,Italian,24,5,Urgent,Live Chat,Premium
+BLT-556,2026-06-21 20:29:00,Account and security,Italian,48,2,Low,Live Chat,Free
+BLT-557,2026-06-09 03:48:00,Account and security,English,65,4,Urgent,Live Chat,Standard
+BLT-558,2026-06-09 23:24:00,Payment & Refund,Italian,13,4,Urgent,Email,Premium
+BLT-559,2026-06-04 12:40:00,Late delivery,Estonian,62,4,High,Email,Standard
+BLT-560,2026-06-12 08:35:00,Payment & Refund,Italian,21,4,Low,Live Chat,Free
+BLT-561,2026-06-30 12:28:00,Account and security,Italian,12,5,High,Live Chat,Standard
+BLT-562,2026-06-25 04:53:00,Account and security,Italian,170,4,High,Live Chat,Standard
+BLT-563,2026-06-29 07:14:00,Lost item,Italian,13,2,Urgent,Live Chat,Premium
+BLT-564,2026-06-10 17:13:00,Lost item,Italian,35,4,Low,In-App Ticket,Free
+BLT-565,2026-06-11 08:52:00,Trip experience,Italian,23,5,Urgent,Live Chat,Standard
+BLT-566,2026-06-27 09:47:00,Late delivery,Italian,52,4,Medium,Live Chat,Free
+BLT-567,2026-06-19 11:34:00,Payment & Refund,Italian,44,3,Low,Live Chat,Free
+BLT-568,2026-06-20 09:05:00,Account and security,Italian,21,5,Medium,In-App Ticket,Free
+BLT-569,2026-06-23 06:18:00,Account and security,Italian,34,4,High,Live Chat,Standard
+BLT-570,2026-06-03 04:31:00,Payment & Refund,Italian,60,2,Urgent,Live Chat,Premium
+BLT-571,2026-06-17 17:26:00,Account and security,Italian,36,3,Urgent,Live Chat,Standard
+BLT-572,2026-06-24 18:11:00,Payment & Refund,Italian,24,5,Medium,Live Chat,Free
+BLT-573,2026-06-29 18:19:00,Payment & Refund,Italian,7,5,Low,Live Chat,Free
+BLT-574,2026-06-20 01:40:00,Account and security,Italian,137,3,Urgent,Live Chat,Premium
+BLT-575,2026-06-11 07:54:00,Payment & Refund,Italian,7,4,Medium,Live Chat,Free
+BLT-576,2026-06-29 02:43:00,Account and security,Italian,20,3,Low,Live Chat,Free
+BLT-577,2026-06-01 05:08:00,Payment & Refund,Italian,115,4,Low,Live Chat,Free
+BLT-578,2026-06-20 09:49:00,Late delivery,Italian,46,3,Medium,Live Chat,Free
+BLT-579,2026-06-19 00:48:00,Account and security,Italian,27,4,Urgent,Live Chat,Premium
+BLT-580,2026-06-14 14:22:00,Trip experience,Italian,59,4,Urgent,Live Chat,Premium
+BLT-581,2026-06-19 12:13:00,Late delivery,Estonian,19,5,Low,Live Chat,Free
+BLT-582,2026-06-04 03:06:00,Account and security,Italian,28,4,Urgent,Live Chat,Premium
+BLT-583,2026-06-12 11:23:00,Late delivery,Italian,21,5,Urgent,Live Chat,Premium
+BLT-584,2026-06-16 13:38:00,Payment & Refund,Italian,7,5,Low,Web Form,Free
+BLT-585,2026-06-29 19:27:00,Account and security,English,288,3,Urgent,Live Chat,Premium
+BLT-586,2026-06-03 18:51:00,Trip experience,Italian,37,4,Urgent,Live Chat,Premium
+BLT-587,2026-06-23 00:05:00,Trip experience,Italian,31,4,Low,Live Chat,Free
+BLT-588,2026-06-27 11:12:00,Late delivery,Italian,68,2,Urgent,Live Chat,Premium
+BLT-589,2026-06-27 09:02:00,Payment & Refund,Italian,30,4,Urgent,Live Chat,Premium
+BLT-590,2026-06-26 05:04:00,Late delivery,English,16,4,Urgent,Live Chat,Premium
+BLT-591,2026-06-04 16:58:00,Late delivery,English,63,4,Urgent,Live Chat,Premium
+BLT-592,2026-06-23 10:19:00,Payment & Refund,Italian,43,3,Low,Live Chat,Free
+BLT-593,2026-06-01 17:02:00,Account and security,Italian,19,3,Urgent,In-App Ticket,Standard
+BLT-594,2026-06-03 21:28:00,Payment & Refund,Italian,75,2,Low,Web Form,Free
+BLT-595,2026-06-22 05:19:00,Late delivery,Italian,59,3,High,Live Chat,Standard
+BLT-596,2026-06-30 00:09:00,Trip experience,Italian,41,3,Urgent,Live Chat,Premium
+BLT-597,2026-06-24 04:55:00,Trip experience,Italian,17,5,High,Live Chat,Standard
+BLT-598,2026-06-26 04:44:00,Late delivery,Italian,52,1,Low,Live Chat,Free
+BLT-599,2026-06-25 02:09:00,Payment & Refund,Italian,68,3,Medium,Web Form,Free
+BLT-600,2026-06-09 13:23:00,Payment & Refund,Italian,68,4,Urgent,Live Chat,Standard
+BLT-601,2026-06-03 11:55:00,Late delivery,Italian,62,2,Low,Live Chat,Free
+BLT-602,2026-06-14 21:52:00,Lost item,Italian,12,4,Urgent,Live Chat,Premium
+BLT-603,2026-06-20 18:23:00,Trip experience,Italian,42,3,Low,Live Chat,Free
+BLT-604,2026-06-07 01:29:00,Late delivery,Italian,30,1,Medium,Live Chat,Free
+BLT-605,2026-06-19 11:17:00,App Bug,Italian,51,3,High,Live Chat,Standard
+BLT-606,2026-06-10 14:44:00,Payment & Refund,English,96,5,Medium,Email,Free
+BLT-607,2026-06-30 13:24:00,Trip experience,Italian,30,4,High,In-App Ticket,Standard
+BLT-608,2026-06-01 04:07:00,Account and security,Italian,54,4,Low,Live Chat,Free
+BLT-609,2026-06-18 01:04:00,Payment & Refund,Italian,22,4,Low,Live Chat,Free
+BLT-610,2026-06-05 12:18:00,Trip experience,Italian,51,1,Low,Live Chat,Free
+BLT-611,2026-06-29 21:42:00,Late delivery,Italian,43,4,Medium,Live Chat,Free
+BLT-612,2026-06-08 07:15:00,Account and security,Italian,23,4,Urgent,Email,Premium
+BLT-613,2026-06-30 17:44:00,Account and security,Italian,32,3,Medium,In-App Ticket,Free
+BLT-614,2026-06-20 21:28:00,Payment & Refund,Italian,26,5,Urgent,Live Chat,Premium
+BLT-615,2026-06-10 20:02:00,Account and security,Italian,60,5,Medium,Live Chat,Free
+BLT-616,2026-06-18 12:45:00,Payment & Refund,Italian,48,1,Low,Live Chat,Free
+BLT-617,2026-06-04 00:29:00,Trip experience,Estonian,26,5,Low,Live Chat,Free
+BLT-618,2026-06-13 13:21:00,Account and security,Italian,24,4,Urgent,Live Chat,Premium
+BLT-619,2026-06-24 06:41:00,App Bug,Italian,37,4,Medium,Live Chat,Free
+BLT-620,2026-06-12 00:14:00,Trip experience,Italian,12,4,High,Live Chat,Free
+BLT-621,2026-06-18 05:52:00,Account and security,Italian,26,3,Low,Live Chat,Free
+BLT-622,2026-06-13 20:56:00,Account and security,Italian,38,3,High,Live Chat,Standard
+BLT-623,2026-06-19 15:01:00,Trip experience,Italian,31,3,Urgent,Web Form,Premium
+BLT-624,2026-06-01 20:56:00,Payment & Refund,Estonian,116,5,High,Live Chat,Free
+BLT-625,2026-06-17 08:48:00,Account and security,Italian,30,1,High,In-App Ticket,Standard
+BLT-626,2026-06-16 13:49:00,Late delivery,Italian,19,2,High,Live Chat,Standard
+BLT-627,2026-06-14 06:37:00,Account and security,Italian,45,4,Urgent,In-App Ticket,Standard
+BLT-628,2026-06-18 00:54:00,Lost item,Italian,36,3,Low,Live Chat,Free
+BLT-629,2026-06-28 07:49:00,Account and security,English,14,5,High,Live Chat,Standard
+BLT-630,2026-06-07 13:56:00,Trip experience,Italian,20,5,Urgent,Live Chat,Premium
+BLT-631,2026-06-21 11:26:00,Payment & Refund,Estonian,7,4,Low,Live Chat,Free
+BLT-632,2026-06-10 04:30:00,Lost item,Italian,5,5,High,Live Chat,Standard
+BLT-633,2026-06-16 11:59:00,Account and security,Italian,5,5,Low,Live Chat,Free
+BLT-634,2026-06-10 17:37:00,Late delivery,Italian,25,5,High,Live Chat,Standard
+BLT-635,2026-06-03 18:00:00,Payment & Refund,Italian,33,4,High,Live Chat,Standard
+BLT-636,2026-06-16 17:00:00,App Bug,Italian,44,5,High,In-App Ticket,Standard
+BLT-637,2026-06-13 23:05:00,Trip experience,Italian,48,4,Low,Live Chat,Free
+BLT-638,2026-06-27 02:52:00,Account and security,English,38,3,Low,In-App Ticket,Free
+BLT-639,2026-06-01 09:57:00,Account and security,Italian,9,1,High,Web Form,Standard
+BLT-640,2026-06-08 23:41:00,Late delivery,Italian,13,5,Urgent,Web Form,Premium
+BLT-641,2026-06-04 19:55:00,Payment & Refund,Italian,21,3,Urgent,Live Chat,Premium
+BLT-642,2026-06-19 17:26:00,Payment & Refund,Italian,38,3,Low,Live Chat,Free
+BLT-643,2026-06-24 11:20:00,Account and security,Italian,61,3,Low,Email,Free
+BLT-644,2026-06-24 15:30:00,Late delivery,Italian,43,2,Low,Live Chat,Free
+BLT-645,2026-06-10 13:30:00,Payment & Refund,Italian,23,5,High,Live Chat,Standard
+BLT-646,2026-06-24 22:12:00,Payment & Refund,Italian,16,5,High,In-App Ticket,Standard
+BLT-647,2026-06-12 23:03:00,Trip experience,Italian,55,3,High,Live Chat,Free
+BLT-648,2026-06-10 11:59:00,Account and security,Italian,26,5,Urgent,Live Chat,Premium
+BLT-649,2026-06-03 23:21:00,Trip experience,Italian,71,4,Low,In-App Ticket,Free
+BLT-650,2026-06-20 20:01:00,Lost item,Italian,69,4,High,In-App Ticket,Standard
+BLT-651,2026-06-24 11:13:00,Payment & Refund,Italian,24,5,High,Live Chat,Standard
+BLT-652,2026-06-25 04:36:00,Late delivery,Italian,14,4,High,Live Chat,Standard
+BLT-653,2026-06-20 06:05:00,Payment & Refund,Estonian,39,3,Low,Live Chat,Free
+BLT-654,2026-06-20 00:58:00,Payment & Refund,Italian,28,4,Low,Web Form,Free
+BLT-655,2026-06-01 17:38:00,Payment & Refund,Estonian,88,4,Urgent,Web Form,Premium
+BLT-656,2026-06-15 01:57:00,App Bug,Italian,28,3,Urgent,In-App Ticket,Premium
+BLT-657,2026-06-14 12:31:00,Trip experience,Italian,70,4,Medium,In-App Ticket,Free
+BLT-658,2026-06-17 07:07:00,Trip experience,Italian,10,4,Urgent,Live Chat,Premium
+BLT-659,2026-06-28 23:53:00,Account and security,Italian,28,4,High,In-App Ticket,Free
+BLT-660,2026-06-06 04:04:00,Payment & Refund,Italian,53,4,Medium,Web Form,Free
+BLT-661,2026-06-12 14:23:00,Account and security,Italian,68,3,High,Live Chat,Standard
+BLT-662,2026-06-08 21:31:00,Account and security,Italian,32,4,Medium,Live Chat,Free
+BLT-663,2026-06-25 04:04:00,App Bug,Italian,9,5,Urgent,Live Chat,Premium
+BLT-664,2026-06-08 00:56:00,Payment & Refund,Italian,18,4,Medium,Email,Free
+BLT-665,2026-06-25 01:25:00,Payment & Refund,Italian,36,3,Low,Email,Free
+BLT-666,2026-06-01 07:36:00,Payment & Refund,Estonian,30,3,Urgent,Live Chat,Standard
+BLT-667,2026-06-13 22:26:00,Account and security,Italian,23,5,Urgent,Live Chat,Standard
+BLT-668,2026-06-18 03:17:00,Trip experience,Italian,25,3,Medium,In-App Ticket,Free
+BLT-669,2026-06-04 06:56:00,Payment & Refund,Italian,94,3,High,Live Chat,Standard
+BLT-670,2026-06-14 18:20:00,Lost item,Italian,34,3,Low,Live Chat,Free
+BLT-671,2026-06-06 21:27:00,Late delivery,Italian,14,5,Urgent,Live Chat,Standard
+BLT-672,2026-06-14 01:08:00,Payment & Refund,Estonian,83,3,Low,Live Chat,Free
+BLT-673,2026-06-14 20:19:00,Payment & Refund,Italian,24,4,High,In-App Ticket,Standard
+BLT-674,2026-06-30 23:53:00,Account and security,Italian,38,2,Low,Live Chat,Free
+BLT-675,2026-06-27 05:12:00,Payment & Refund,Italian,12,5,Urgent,Live Chat,Standard
+BLT-676,2026-06-25 00:55:00,Payment & Refund,Estonian,19,4,Urgent,Live Chat,Standard
+BLT-677,2026-06-05 06:11:00,Trip experience,English,12,5,Low,Email,Free
+BLT-678,2026-06-01 15:48:00,Payment & Refund,Italian,11,4,High,Live Chat,Standard
+BLT-679,2026-06-14 01:13:00,Payment & Refund,Italian,59,4,Urgent,In-App Ticket,Premium
+BLT-680,2026-06-12 11:15:00,Payment & Refund,Italian,42,3,Urgent,In-App Ticket,Standard
+BLT-681,2026-06-11 15:47:00,Late delivery,Italian,37,3,Urgent,Live Chat,Premium
+BLT-682,2026-06-14 08:25:00,Trip experience,Italian,125,4,Medium,Live Chat,Free
+BLT-683,2026-06-15 01:58:00,Late delivery,Estonian,54,4,Low,Live Chat,Free
+BLT-684,2026-06-30 21:06:00,Account and security,Italian,53,4,Urgent,Web Form,Premium
+BLT-685,2026-06-15 00:37:00,Account and security,English,17,5,High,In-App Ticket,Standard
+BLT-686,2026-06-11 15:33:00,Payment & Refund,Italian,98,4,Medium,Live Chat,Free
+BLT-687,2026-06-03 17:16:00,Account and security,Italian,83,4,Low,Live Chat,Free
+BLT-688,2026-06-20 15:42:00,Account and security,Italian,29,5,Low,Web Form,Free
+BLT-689,2026-06-28 16:25:00,Trip experience,Italian,48,5,Urgent,Live Chat,Standard
+BLT-690,2026-06-28 05:47:00,App Bug,Italian,46,4,High,Live Chat,Standard
+BLT-691,2026-06-17 16:59:00,Payment & Refund,Estonian,13,3,Urgent,Email,Standard
+BLT-692,2026-06-24 06:40:00,Account and security,Italian,28,3,Urgent,Email,Standard
+BLT-693,2026-06-11 12:58:00,Late delivery,English,22,5,Low,Live Chat,Free
+BLT-694,2026-06-15 15:58:00,Lost item,Italian,13,5,High,Live Chat,Standard
+BLT-695,2026-06-06 00:42:00,Payment & Refund,Italian,9,4,Urgent,Live Chat,Premium
+BLT-696,2026-06-18 21:50:00,Payment & Refund,Italian,26,4,Urgent,Live Chat,Premium
+BLT-697,2026-06-14 01:21:00,Late delivery,Italian,37,4,High,Web Form,Standard
+BLT-698,2026-06-18 15:16:00,Payment & Refund,Italian,28,5,High,Live Chat,Standard
+BLT-699,2026-06-26 03:29:00,Payment & Refund,Italian,35,4,Urgent,In-App Ticket,Premium
+BLT-700,2026-06-23 15:23:00,Account and security,Italian,44,1,Urgent,Live Chat,Standard
+BLT-701,2026-06-24 16:13:00,Payment & Refund,Italian,55,4,Urgent,Web Form,Premium
+BLT-702,2026-06-16 05:07:00,Account and security,Italian,98,3,High,Live Chat,Free
+BLT-703,2026-06-28 16:16:00,Lost item,Italian,33,4,High,In-App Ticket,Standard
+BLT-704,2026-06-17 04:33:00,Trip experience,Italian,15,2,Urgent,Live Chat,Standard
+BLT-705,2026-06-10 07:49:00,Account and security,Italian,24,4,Low,In-App Ticket,Free
+BLT-706,2026-06-05 11:39:00,Payment & Refund,Italian,34,1,High,Live Chat,Standard
+BLT-707,2026-06-14 17:58:00,Late delivery,Italian,23,5,High,Live Chat,Standard
+BLT-708,2026-06-11 06:20:00,App Bug,Italian,32,3,Urgent,Live Chat,Premium
+BLT-709,2026-06-18 17:26:00,Payment & Refund,English,27,5,Low,Web Form,Free
+BLT-710,2026-06-25 20:12:00,Account and security,Italian,24,5,High,Live Chat,Standard
+BLT-711,2026-06-19 17:11:00,App Bug,Estonian,102,5,Urgent,Live Chat,Standard
+BLT-712,2026-06-19 19:57:00,Trip experience,Italian,30,5,Urgent,Live Chat,Premium
+BLT-713,2026-06-08 16:12:00,Payment & Refund,Italian,8,3,Medium,Live Chat,Free
+BLT-714,2026-06-22 04:19:00,Payment & Refund,Italian,27,4,Low,Web Form,Free
+BLT-715,2026-06-07 01:14:00,Late delivery,Italian,81,4,Low,Email,Free
+BLT-716,2026-06-12 03:22:00,Late delivery,Italian,70,3,Medium,Live Chat,Free
+BLT-717,2026-06-12 16:26:00,Account and security,Italian,47,3,High,Live Chat,Standard
+BLT-718,2026-06-23 13:09:00,Trip experience,Italian,26,4,Low,Live Chat,Free
+BLT-719,2026-06-05 10:38:00,Account and security,Estonian,54,4,Medium,In-App Ticket,Free
+BLT-720,2026-06-08 06:28:00,Account and security,Estonian,43,4,High,Web Form,Standard
+BLT-721,2026-06-05 10:33:00,Account and security,Italian,51,4,Medium,Live Chat,Free
+BLT-722,2026-06-06 03:28:00,Payment & Refund,Italian,107,4,Medium,Live Chat,Free
+BLT-723,2026-06-12 10:21:00,Payment & Refund,Estonian,12,2,Urgent,Live Chat,Premium
+BLT-724,2026-06-05 00:42:00,Payment & Refund,Italian,292,1,Medium,In-App Ticket,Free
+BLT-725,2026-06-25 10:26:00,Late delivery,Italian,34,4,Medium,In-App Ticket,Free
+BLT-726,2026-06-11 05:12:00,Lost item,Italian,25,4,Medium,Email,Free
+BLT-727,2026-06-02 21:06:00,Trip experience,Italian,27,5,Low,Live Chat,Free
+BLT-728,2026-06-14 23:27:00,Trip experience,Italian,23,4,Urgent,In-App Ticket,Premium
+BLT-729,2026-06-13 23:13:00,Late delivery,Italian,16,5,Medium,Live Chat,Free
+BLT-730,2026-06-03 02:46:00,Trip experience,Estonian,20,4,Urgent,In-App Ticket,Premium
+BLT-731,2026-06-22 13:51:00,Payment & Refund,Italian,35,1,Low,Web Form,Free
+BLT-732,2026-06-08 03:46:00,Trip experience,Italian,32,4,Urgent,Live Chat,Premium
+BLT-733,2026-06-24 01:35:00,App Bug,Italian,73,1,Urgent,Live Chat,Premium
+BLT-734,2026-06-29 11:52:00,Payment & Refund,Italian,59,4,Low,Live Chat,Free
+BLT-735,2026-06-20 20:09:00,Trip experience,Italian,53,3,Medium,Live Chat,Free
+BLT-736,2026-06-08 21:33:00,Late delivery,Italian,293,2,Medium,Live Chat,Free
+BLT-737,2026-06-02 08:57:00,App Bug,English,14,5,Medium,Live Chat,Free
+BLT-738,2026-06-04 07:21:00,Payment & Refund,Italian,27,4,Low,Live Chat,Free
+BLT-739,2026-06-16 23:11:00,Late delivery,Italian,16,4,High,Live Chat,Standard
+BLT-740,2026-06-25 01:28:00,Payment & Refund,Italian,79,4,Urgent,Live Chat,Premium
+BLT-741,2026-06-20 17:58:00,Payment & Refund,Italian,18,5,Medium,Live Chat,Free
+BLT-742,2026-06-27 00:09:00,Lost item,Italian,44,4,Urgent,Live Chat,Standard
+BLT-743,2026-06-23 23:52:00,App Bug,Estonian,44,1,Low,Live Chat,Free
+BLT-744,2026-06-28 02:00:00,Payment & Refund,Italian,149,1,Urgent,Live Chat,Premium
+BLT-745,2026-06-27 00:16:00,Trip experience,Italian,36,3,Medium,In-App Ticket,Free
+BLT-746,2026-06-07 19:03:00,Payment & Refund,English,32,4,High,Web Form,Standard
+BLT-747,2026-06-21 23:17:00,App Bug,Italian,15,5,Low,In-App Ticket,Free
+BLT-748,2026-06-18 18:58:00,Payment & Refund,Italian,146,5,High,Live Chat,Standard
+BLT-749,2026-06-10 15:04:00,Payment & Refund,Italian,54,5,Urgent,Live Chat,Premium
+BLT-750,2026-06-20 14:20:00,Payment & Refund,Italian,6,4,Urgent,Web Form,Standard
+BLT-751,2026-06-02 08:59:00,Payment & Refund,Italian,87,2,High,Live Chat,Standard
+BLT-752,2026-06-25 13:10:00,Trip experience,Italian,11,4,Low,Live Chat,Free
+BLT-753,2026-06-24 12:24:00,Lost item,Italian,34,4,Urgent,Web Form,Premium
+BLT-754,2026-06-24 00:39:00,Trip experience,Italian,15,5,Low,Live Chat,Free
+BLT-755,2026-06-09 05:00:00,Account and security,Italian,60,4,High,Live Chat,Standard
+BLT-756,2026-06-29 19:12:00,Account and security,Italian,23,1,Low,Live Chat,Free
+BLT-757,2026-06-12 08:30:00,Trip experience,Italian,166,5,Medium,Live Chat,Free
+BLT-758,2026-06-09 04:21:00,Account and security,Italian,9,3,Low,Live Chat,Free
+BLT-759,2026-06-01 12:23:00,Payment & Refund,Italian,49,1,Urgent,Web Form,Premium
+BLT-760,2026-06-29 07:04:00,Account and security,English,27,5,High,Live Chat,Standard
+BLT-761,2026-06-21 18:11:00,Trip experience,Italian,127,4,Low,Live Chat,Free
+BLT-762,2026-06-03 14:24:00,Late delivery,Italian,29,5,Low,In-App Ticket,Free
+BLT-763,2026-06-17 14:32:00,Trip experience,Estonian,34,5,Low,In-App Ticket,Free
+BLT-764,2026-06-04 02:43:00,Account and security,Italian,28,5,Low,Live Chat,Free
+BLT-765,2026-06-14 15:17:00,Trip experience,English,42,5,Low,Live Chat,Free
+BLT-766,2026-06-27 12:41:00,Payment & Refund,Italian,106,3,High,Live Chat,Standard
+BLT-767,2026-06-27 15:48:00,Late delivery,Italian,56,3,Urgent,In-App Ticket,Standard
+BLT-768,2026-06-04 17:16:00,Late delivery,Estonian,55,4,Urgent,Live Chat,Premium
+BLT-769,2026-06-30 03:02:00,Payment & Refund,Italian,170,3,Medium,Live Chat,Free
+BLT-770,2026-06-27 02:21:00,Payment & Refund,Italian,45,4,Low,Live Chat,Free
+BLT-771,2026-06-08 00:51:00,Account and security,English,31,3,Medium,Live Chat,Free
+BLT-772,2026-06-14 17:29:00,Payment & Refund,Estonian,96,5,Urgent,In-App Ticket,Standard
+BLT-773,2026-06-01 21:01:00,Payment & Refund,Italian,25,5,High,Web Form,Standard
+BLT-774,2026-06-03 13:24:00,Late delivery,English,15,5,Urgent,Live Chat,Premium
+BLT-775,2026-06-19 20:08:00,Payment & Refund,Italian,25,5,Medium,Web Form,Free
+BLT-776,2026-06-17 19:43:00,App Bug,Italian,23,4,High,Live Chat,Free
+BLT-777,2026-06-24 01:38:00,Account and security,Estonian,116,4,High,Live Chat,Standard
+BLT-778,2026-06-11 20:55:00,Account and security,Italian,14,1,High,Live Chat,Standard
+BLT-779,2026-06-10 00:07:00,Trip experience,Italian,21,3,Low,In-App Ticket,Free
+BLT-780,2026-06-27 17:36:00,Trip experience,Italian,22,5,Medium,Live Chat,Free
+BLT-781,2026-06-29 17:29:00,Payment & Refund,Estonian,88,1,Low,Email,Free
+BLT-782,2026-06-29 03:18:00,Payment & Refund,English,20,4,Urgent,Live Chat,Standard
+BLT-783,2026-06-12 21:23:00,App Bug,Italian,74,5,Medium,Live Chat,Free
+BLT-784,2026-06-11 05:21:00,Lost item,Italian,28,5,Medium,Live Chat,Free
+BLT-785,2026-06-30 12:45:00,Payment & Refund,Italian,28,4,Low,Web Form,Free
+BLT-786,2026-06-10 04:43:00,Lost item,Estonian,15,4,Medium,In-App Ticket,Free
+BLT-787,2026-06-16 17:33:00,Payment & Refund,English,19,5,Urgent,Live Chat,Premium
+BLT-788,2026-06-21 05:29:00,Payment & Refund,Italian,9,4,Medium,Email,Free
+BLT-789,2026-06-07 05:56:00,Payment & Refund,Estonian,67,4,Urgent,Live Chat,Premium
+BLT-790,2026-06-29 07:37:00,Payment & Refund,Italian,14,5,Urgent,Live Chat,Premium
+BLT-791,2026-06-09 05:39:00,Account and security,Italian,15,3,Medium,In-App Ticket,Free
+BLT-792,2026-06-22 22:52:00,Payment & Refund,English,14,5,Medium,Live Chat,Free
+BLT-793,2026-06-25 16:19:00,Account and security,Italian,76,4,Low,In-App Ticket,Free
+BLT-794,2026-06-13 16:53:00,Payment & Refund,Italian,46,4,Medium,Web Form,Free
+BLT-795,2026-06-19 16:57:00,Payment & Refund,Italian,52,4,Urgent,Web Form,Standard
+BLT-796,2026-06-17 00:01:00,Trip experience,Estonian,76,4,High,Live Chat,Standard
+BLT-797,2026-06-25 07:27:00,Account and security,Italian,13,5,Urgent,In-App Ticket,Premium
+BLT-798,2026-06-06 23:56:00,Account and security,English,12,4,Urgent,Live Chat,Premium
+BLT-799,2026-06-25 10:34:00,Trip experience,Italian,48,5,Low,Web Form,Free
+BLT-800,2026-06-24 23:46:00,Payment & Refund,Italian,36,3,Urgent,Live Chat,Standard
+BLT-801,2026-06-10 11:43:00,Late delivery,English,18,5,Low,Live Chat,Free
+BLT-802,2026-06-14 12:50:00,Trip experience,Italian,46,2,Medium,Live Chat,Free
+BLT-803,2026-06-05 21:05:00,Payment & Refund,Italian,18,2,Low,Email,Free
+BLT-804,2026-06-16 10:30:00,Payment & Refund,Italian,60,4,Low,Live Chat,Free
+BLT-805,2026-06-07 12:43:00,Account and security,Italian,30,4,Medium,Live Chat,Free
+BLT-806,2026-06-27 14:59:00,Account and security,Italian,23,5,Medium,Live Chat,Free
+BLT-807,2026-06-04 08:15:00,Lost item,Italian,8,5,High,Live Chat,Free
+BLT-808,2026-06-27 07:24:00,Account and security,Estonian,25,1,Urgent,Live Chat,Standard
+BLT-809,2026-06-26 11:46:00,Payment & Refund,Italian,15,5,High,Live Chat,Free
+BLT-810,2026-06-16 17:46:00,Account and security,Estonian,19,2,Low,Live Chat,Free
+BLT-811,2026-06-13 13:01:00,Late delivery,Italian,26,3,Urgent,Web Form,Premium
+BLT-812,2026-06-28 16:58:00,App Bug,English,49,3,Medium,Live Chat,Free
+BLT-813,2026-06-22 06:18:00,Account and security,Italian,75,4,Urgent,Live Chat,Premium
+BLT-814,2026-06-03 03:57:00,Payment & Refund,English,41,1,Urgent,Live Chat,Standard
+BLT-815,2026-06-25 09:53:00,Trip experience,English,93,5,Urgent,Live Chat,Premium
+BLT-816,2026-06-01 10:09:00,Payment & Refund,Italian,19,3,Medium,Web Form,Free
+BLT-817,2026-06-27 10:06:00,Account and security,Italian,27,5,Urgent,Live Chat,Premium
+BLT-818,2026-06-24 14:48:00,Late delivery,Italian,45,3,High,Live Chat,Standard
+BLT-819,2026-06-27 14:40:00,Account and security,Italian,15,5,Medium,Live Chat,Free
+BLT-820,2026-06-19 14:20:00,Trip experience,Italian,102,3,Low,Live Chat,Free
+BLT-821,2026-06-21 18:23:00,Trip experience,Italian,5,5,Urgent,Live Chat,Premium
+BLT-822,2026-06-18 14:36:00,Payment & Refund,Italian,21,3,Low,In-App Ticket,Free
+BLT-823,2026-06-27 07:49:00,Payment & Refund,Italian,9,5,Urgent,Live Chat,Premium
+BLT-824,2026-06-25 13:36:00,Account and security,Italian,32,3,Low,In-App Ticket,Free
+BLT-825,2026-06-11 03:10:00,Payment & Refund,Estonian,199,4,Low,Live Chat,Free
+BLT-826,2026-06-09 22:46:00,Account and security,Estonian,22,5,Low,In-App Ticket,Free
+BLT-827,2026-06-18 00:30:00,Lost item,Italian,60,4,Urgent,In-App Ticket,Premium
+BLT-828,2026-06-27 05:01:00,Payment & Refund,Italian,14,1,Urgent,Live Chat,Premium
+BLT-829,2026-06-07 12:41:00,Payment & Refund,Italian,37,4,Urgent,Live Chat,Premium
+BLT-830,2026-06-11 16:22:00,App Bug,Italian,23,3,Urgent,Live Chat,Premium
+BLT-831,2026-06-07 11:26:00,Late delivery,Italian,40,3,Medium,Live Chat,Free
+BLT-832,2026-06-07 04:21:00,Trip experience,Italian,38,4,Low,Email,Free
+BLT-833,2026-06-21 23:11:00,Trip experience,Italian,48,3,High,In-App Ticket,Standard
+BLT-834,2026-06-09 07:50:00,Trip experience,Italian,60,3,High,Email,Standard
+BLT-835,2026-06-15 20:43:00,Late delivery,Italian,40,2,Medium,Live Chat,Free
+BLT-836,2026-06-09 00:38:00,Late delivery,English,228,2,Low,Email,Free
+BLT-837,2026-06-14 12:45:00,Account and security,Italian,57,3,Low,In-App Ticket,Free
+BLT-838,2026-06-30 03:32:00,Trip experience,Estonian,22,5,Low,Live Chat,Free
+BLT-839,2026-06-18 06:13:00,Late delivery,Estonian,42,4,Urgent,Live Chat,Premium
+BLT-840,2026-06-26 13:19:00,Account and security,Italian,35,4,High,Live Chat,Standard
+BLT-841,2026-06-28 07:25:00,Payment & Refund,Italian,71,4,High,Live Chat,Standard
+BLT-842,2026-06-10 03:58:00,Late delivery,Estonian,66,3,Urgent,Web Form,Standard
+BLT-843,2026-06-04 08:23:00,Late delivery,Italian,61,1,High,Live Chat,Standard
+BLT-844,2026-06-13 09:30:00,Account and security,Italian,13,4,Medium,Live Chat,Free
+BLT-845,2026-06-29 21:26:00,Trip experience,English,44,3,Urgent,Live Chat,Premium
+BLT-846,2026-06-11 12:40:00,Account and security,Italian,22,5,Low,Live Chat,Free
+BLT-847,2026-06-08 21:56:00,Payment & Refund,Italian,37,1,Urgent,Live Chat,Premium
+BLT-848,2026-06-09 21:59:00,Account and security,Italian,187,4,Low,Live Chat,Free
+BLT-849,2026-06-30 16:35:00,Account and security,Italian,21,4,Low,Live Chat,Free
+BLT-850,2026-06-16 22:41:00,Account and security,Italian,35,2,Low,Email,Free
+BLT-851,2026-06-10 05:19:00,Payment & Refund,Italian,9,4,High,Email,Standard
+BLT-852,2026-06-22 23:54:00,Payment & Refund,Italian,11,4,High,Live Chat,Standard
+BLT-853,2026-06-06 19:56:00,Late delivery,Italian,6,5,Low,Live Chat,Free
+BLT-854,2026-06-06 22:46:00,App Bug,Italian,16,5,Medium,Live Chat,Free
+BLT-855,2026-06-27 01:00:00,Account and security,Italian,21,3,Urgent,Live Chat,Standard
+BLT-856,2026-06-21 08:08:00,Trip experience,Italian,97,3,Low,Live Chat,Free
+BLT-857,2026-06-24 05:59:00,App Bug,Estonian,142,4,Low,Live Chat,Free
+BLT-858,2026-06-04 03:03:00,Late delivery,Italian,19,5,Low,Email,Free
+BLT-859,2026-06-30 02:01:00,Payment & Refund,English,55,1,Urgent,Live Chat,Premium
+BLT-860,2026-06-29 06:30:00,Late delivery,Italian,14,3,Low,Live Chat,Free
+BLT-861,2026-06-16 15:35:00,Lost item,Italian,17,4,Medium,Live Chat,Free
+BLT-862,2026-06-12 08:51:00,Payment & Refund,Italian,14,1,High,Live Chat,Standard
+BLT-863,2026-06-26 06:26:00,Payment & Refund,Italian,9,5,High,Live Chat,Standard
+BLT-864,2026-06-10 20:53:00,Late delivery,Italian,19,1,High,Live Chat,Free
+BLT-865,2026-06-20 01:11:00,Payment & Refund,Italian,18,5,Urgent,Live Chat,Standard
+BLT-866,2026-06-30 22:13:00,Payment & Refund,English,15,5,Low,Live Chat,Free
+BLT-867,2026-06-06 09:27:00,Payment & Refund,Italian,10,5,Low,Live Chat,Free
+BLT-868,2026-06-30 07:29:00,Trip experience,Italian,28,4,Urgent,Live Chat,Premium
+BLT-869,2026-06-07 06:31:00,Payment & Refund,Italian,129,3,Urgent,Live Chat,Premium
+BLT-870,2026-06-28 07:15:00,Payment & Refund,Italian,16,5,High,Live Chat,Standard
+BLT-871,2026-06-09 18:43:00,Payment & Refund,Italian,41,3,Medium,In-App Ticket,Free
+BLT-872,2026-06-12 06:15:00,Trip experience,Italian,66,3,High,Live Chat,Standard
+BLT-873,2026-06-30 05:48:00,Account and security,Italian,5,5,Medium,Live Chat,Free
+BLT-874,2026-06-19 03:39:00,Payment & Refund,Italian,11,5,High,Live Chat,Free
+BLT-875,2026-06-02 12:48:00,Account and security,Italian,47,3,Low,Live Chat,Free
+BLT-876,2026-06-07 21:42:00,Account and security,Italian,67,1,Low,Live Chat,Free
+BLT-877,2026-06-16 13:43:00,Payment & Refund,Italian,56,4,Medium,Live Chat,Free
+BLT-878,2026-06-24 11:42:00,App Bug,Italian,32,3,Urgent,Live Chat,Premium
+BLT-879,2026-06-27 22:51:00,Account and security,Italian,98,3,Urgent,Live Chat,Premium
+BLT-880,2026-06-05 10:51:00,Payment & Refund,Italian,18,4,Urgent,Live Chat,Standard
+BLT-881,2026-06-04 15:57:00,Payment & Refund,Italian,14,5,Medium,In-App Ticket,Free
+BLT-882,2026-06-13 13:17:00,Payment & Refund,Italian,148,4,High,Email,Standard
+BLT-883,2026-06-12 12:17:00,Lost item,Italian,5,3,Medium,Live Chat,Free
+BLT-884,2026-06-17 05:53:00,Trip experience,Italian,35,2,High,Live Chat,Free
+BLT-885,2026-06-27 17:21:00,Payment & Refund,Italian,111,4,Urgent,In-App Ticket,Premium
+BLT-886,2026-06-18 04:19:00,Trip experience,Italian,12,5,Low,Live Chat,Free
+BLT-887,2026-06-09 08:08:00,Trip experience,Italian,23,4,Urgent,Live Chat,Premium
+BLT-888,2026-06-22 12:55:00,Trip experience,Italian,105,1,Urgent,In-App Ticket,Premium
+BLT-889,2026-06-18 01:20:00,Account and security,English,9,3,High,Live Chat,Standard
+BLT-890,2026-06-08 21:38:00,Account and security,Italian,29,4,Low,Web Form,Free
+BLT-891,2026-06-13 19:53:00,Payment & Refund,Italian,27,5,Medium,Live Chat,Free
+BLT-892,2026-06-29 12:12:00,Late delivery,Italian,23,5,Medium,Web Form,Free
+BLT-893,2026-06-20 04:06:00,Account and security,Italian,27,3,High,Live Chat,Standard
+BLT-894,2026-06-21 19:00:00,Payment & Refund,Italian,63,4,High,Email,Standard
+BLT-895,2026-06-20 00:04:00,Payment & Refund,Italian,233,4,Medium,Live Chat,Free
+BLT-896,2026-06-15 22:27:00,Payment & Refund,Italian,59,4,Urgent,Live Chat,Standard
+BLT-897,2026-06-16 01:12:00,Payment & Refund,Estonian,108,5,Low,Live Chat,Free
+BLT-898,2026-06-30 12:30:00,Trip experience,English,15,4,Urgent,In-App Ticket,Standard
+BLT-899,2026-06-10 20:55:00,Late delivery,Italian,14,3,Medium,Live Chat,Free
+BLT-900,2026-06-16 16:27:00,Lost item,Estonian,25,4,Urgent,Live Chat,Standard
+BLT-901,2026-06-03 23:30:00,Late delivery,Italian,41,3,Low,Live Chat,Free
+BLT-902,2026-06-12 12:04:00,Payment & Refund,Estonian,128,4,Low,Web Form,Free
+BLT-903,2026-06-06 01:47:00,Trip experience,Italian,34,3,Urgent,Email,Premium
+BLT-904,2026-06-05 02:42:00,Account and security,Italian,12,4,Low,Web Form,Free
+BLT-905,2026-06-10 03:44:00,Payment & Refund,Italian,13,5,Medium,Live Chat,Free
+BLT-906,2026-06-17 04:26:00,Payment & Refund,Estonian,21,1,Low,Live Chat,Free
+BLT-907,2026-06-17 22:33:00,Late delivery,Estonian,26,4,Urgent,Live Chat,Standard
+BLT-908,2026-06-16 07:03:00,Account and security,Italian,26,4,Urgent,Web Form,Premium
+BLT-909,2026-06-06 06:51:00,App Bug,Estonian,25,3,Urgent,Live Chat,Standard
+BLT-910,2026-06-04 10:00:00,Payment & Refund,Italian,37,1,High,Live Chat,Standard
+BLT-911,2026-06-11 13:38:00,App Bug,Italian,18,4,Urgent,Live Chat,Standard
+BLT-912,2026-06-28 06:27:00,Account and security,Italian,55,1,High,In-App Ticket,Standard
+BLT-913,2026-06-27 23:53:00,Account and security,Italian,20,4,High,Live Chat,Free
+BLT-914,2026-06-18 06:59:00,Payment & Refund,Italian,24,4,Low,Live Chat,Free
+BLT-915,2026-06-26 18:06:00,Trip experience,Italian,26,4,Low,Live Chat,Free
+BLT-916,2026-06-28 08:54:00,Account and security,Italian,28,5,High,Live Chat,Standard
+BLT-917,2026-06-04 18:31:00,Payment & Refund,Italian,23,4,High,Live Chat,Standard
+BLT-918,2026-06-23 05:52:00,Payment & Refund,Italian,59,3,Urgent,Live Chat,Premium
+BLT-919,2026-06-30 05:21:00,Late delivery,Italian,51,3,High,Live Chat,Standard
+BLT-920,2026-06-08 10:29:00,Payment & Refund,Italian,11,5,Low,Live Chat,Free
+BLT-921,2026-06-24 02:51:00,Account and security,Estonian,29,5,High,Live Chat,Standard
+BLT-922,2026-06-30 13:51:00,Trip experience,Italian,45,3,Urgent,Live Chat,Premium
+BLT-923,2026-06-11 03:13:00,Late delivery,Italian,41,2,High,Live Chat,Standard
+BLT-924,2026-06-16 14:24:00,Late delivery,Italian,20,4,Low,Web Form,Free
+BLT-925,2026-06-12 07:11:00,Late delivery,Italian,96,4,Low,Live Chat,Free
+BLT-926,2026-06-22 15:37:00,Trip experience,Italian,41,5,Urgent,Live Chat,Standard
+BLT-927,2026-06-02 05:04:00,Account and security,English,89,1,High,Live Chat,Standard
+BLT-928,2026-06-15 00:58:00,Late delivery,Italian,45,5,Urgent,Live Chat,Premium
+BLT-929,2026-06-28 12:58:00,Payment & Refund,Italian,18,4,Low,Web Form,Free
+BLT-930,2026-06-17 19:48:00,Payment & Refund,Italian,23,2,Urgent,Live Chat,Premium
+BLT-931,2026-06-26 14:40:00,Payment & Refund,English,65,5,High,Live Chat,Standard
+BLT-932,2026-06-06 10:11:00,Late delivery,Estonian,30,4,Medium,Live Chat,Free
+BLT-933,2026-06-29 02:45:00,App Bug,Italian,16,5,Low,Live Chat,Free
+BLT-934,2026-06-23 13:21:00,App Bug,Italian,93,4,Medium,Web Form,Free
+BLT-935,2026-06-06 17:02:00,Payment & Refund,Italian,63,1,Medium,Live Chat,Free
+BLT-936,2026-06-13 03:12:00,Account and security,Italian,21,5,Urgent,Live Chat,Premium
+BLT-937,2026-06-12 17:58:00,Payment & Refund,Italian,19,5,Low,Live Chat,Free
+BLT-938,2026-06-19 23:16:00,Late delivery,Italian,20,4,Medium,Live Chat,Free
+BLT-939,2026-06-01 01:36:00,Payment & Refund,Estonian,55,5,Urgent,Live Chat,Premium
+BLT-940,2026-06-29 20:39:00,Account and security,Italian,13,4,Urgent,In-App Ticket,Premium
+BLT-941,2026-06-25 09:12:00,Late delivery,Italian,57,4,Medium,Live Chat,Free
+BLT-942,2026-06-02 02:57:00,Lost item,Italian,14,4,Urgent,Live Chat,Premium
+BLT-943,2026-06-22 08:38:00,Trip experience,Italian,20,5,Urgent,Live Chat,Premium
+BLT-944,2026-06-21 05:22:00,Late delivery,Italian,23,5,Low,Web Form,Free
+BLT-945,2026-06-08 08:49:00,Payment & Refund,Italian,56,4,Urgent,Live Chat,Premium
+BLT-946,2026-06-11 08:12:00,Account and security,Italian,9,5,High,Live Chat,Standard
+BLT-947,2026-06-26 21:19:00,Account and security,Italian,22,1,Urgent,In-App Ticket,Standard
+BLT-948,2026-06-14 11:34:00,Trip experience,Italian,10,5,Urgent,Live Chat,Standard
+BLT-949,2026-06-17 22:16:00,Account and security,Italian,17,5,High,Live Chat,Standard
+BLT-950,2026-06-16 20:34:00,Payment & Refund,Italian,44,3,Low,Live Chat,Free
+BLT-951,2026-06-02 02:58:00,App Bug,Estonian,49,5,Urgent,Live Chat,Standard
+BLT-952,2026-06-24 15:07:00,Account and security,Estonian,59,5,Medium,In-App Ticket,Free
+BLT-953,2026-06-09 10:04:00,Payment & Refund,Italian,64,5,Urgent,Live Chat,Premium
+BLT-954,2026-06-28 23:52:00,Late delivery,Italian,26,5,Low,Live Chat,Free
+BLT-955,2026-06-15 13:17:00,Trip experience,Italian,25,2,Medium,Live Chat,Free
+BLT-956,2026-06-06 11:09:00,Account and security,Italian,471,2,Urgent,Live Chat,Premium
+BLT-957,2026-06-30 19:19:00,Account and security,Italian,94,4,Low,Web Form,Free
+BLT-958,2026-06-07 06:54:00,Account and security,Italian,19,5,Urgent,In-App Ticket,Standard
+BLT-959,2026-06-27 11:01:00,Payment & Refund,Italian,24,5,Low,In-App Ticket,Free
+BLT-960,2026-06-25 00:02:00,Lost item,Italian,39,3,High,Live Chat,Free
+BLT-961,2026-06-16 11:05:00,Late delivery,Estonian,140,3,High,Live Chat,Standard
+BLT-962,2026-06-14 19:27:00,Payment & Refund,Italian,6,5,Low,Live Chat,Free
+BLT-963,2026-06-17 11:16:00,Account and security,Italian,28,5,High,Live Chat,Free
+BLT-964,2026-06-09 05:39:00,Lost item,Italian,16,5,Urgent,Live Chat,Premium
+BLT-965,2026-06-16 17:45:00,Late delivery,Italian,28,4,Urgent,Live Chat,Premium
+BLT-966,2026-06-15 19:39:00,App Bug,Italian,25,5,Medium,Live Chat,Free
+BLT-967,2026-06-25 08:33:00,Late delivery,Italian,5,3,High,Live Chat,Standard
+BLT-968,2026-06-29 19:34:00,Payment & Refund,Italian,44,5,High,Live Chat,Standard
+BLT-969,2026-06-23 11:02:00,Late delivery,Italian,37,5,Urgent,Live Chat,Premium
+BLT-970,2026-06-29 10:55:00,Late delivery,Italian,12,4,Low,Live Chat,Free
+BLT-971,2026-06-04 11:41:00,Payment & Refund,Italian,26,5,High,Live Chat,Standard
+BLT-972,2026-06-18 03:19:00,Account and security,Italian,15,1,Urgent,Live Chat,Standard
+BLT-973,2026-06-22 01:53:00,App Bug,Italian,33,4,Urgent,Live Chat,Standard
+BLT-974,2026-06-13 03:09:00,Payment & Refund,Italian,128,4,High,Live Chat,Standard
+BLT-975,2026-06-10 13:08:00,Payment & Refund,Italian,17,4,Low,Email,Free
+BLT-976,2026-06-03 02:07:00,Account and security,Italian,31,3,Low,Live Chat,Free
+BLT-977,2026-06-18 21:43:00,Payment & Refund,Italian,13,5,Urgent,Live Chat,Premium
+BLT-978,2026-06-15 01:16:00,Trip experience,Italian,59,3,Low,Live Chat,Free
+BLT-979,2026-06-15 20:15:00,Account and security,Italian,24,5,Medium,In-App Ticket,Free
+BLT-980,2026-06-19 14:56:00,Payment & Refund,Italian,75,2,Low,Email,Free
+BLT-981,2026-06-26 06:17:00,Late delivery,Italian,19,5,High,Live Chat,Standard
+BLT-982,2026-06-29 11:40:00,Account and security,Italian,19,5,Low,Live Chat,Free
+BLT-983,2026-06-19 13:36:00,Account and security,Italian,80,3,Urgent,In-App Ticket,Standard
+BLT-984,2026-06-17 04:07:00,Account and security,Italian,48,3,High,Live Chat,Standard
+BLT-985,2026-06-04 07:29:00,Lost item,Italian,32,4,Low,Live Chat,Free
+BLT-986,2026-06-06 15:36:00,Trip experience,Italian,18,4,Medium,Live Chat,Free
+BLT-987,2026-06-27 06:19:00,Payment & Refund,Italian,9,5,High,Live Chat,Free
+BLT-988,2026-06-08 19:59:00,Payment & Refund,English,206,4,High,Live Chat,Standard
+BLT-989,2026-06-02 15:10:00,Payment & Refund,Italian,26,5,High,Email,Standard
+BLT-990,2026-06-05 07:30:00,Late delivery,Italian,35,2,Urgent,Live Chat,Premium
+BLT-991,2026-06-09 12:11:00,Trip experience,English,17,5,Medium,In-App Ticket,Free
+BLT-992,2026-06-09 09:44:00,Trip experience,Italian,20,5,Urgent,Live Chat,Premium
+BLT-993,2026-06-03 13:24:00,Account and security,English,18,5,Low,Email,Free
+BLT-994,2026-06-30 13:17:00,Late delivery,Italian,11,2,Medium,Web Form,Free
+BLT-995,2026-06-13 00:40:00,Account and security,Italian,83,2,High,Web Form,Standard
+BLT-996,2026-06-23 05:41:00,Trip experience,Italian,32,3,Urgent,Web Form,Premium
+BLT-997,2026-06-05 06:06:00,Trip experience,Italian,131,3,High,Live Chat,Standard
+BLT-998,2026-06-30 14:44:00,Account and security,Italian,23,1,Medium,Web Form,Free
+BLT-999,2026-06-30 09:24:00,Late delivery,Italian,8,5,Low,Live Chat,Free
