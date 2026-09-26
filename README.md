@@ -2,7 +2,7 @@
 
 An interactive performance dashboard built with Python, Streamlit, and Plotly Express to monitor real-time operational efficiency, customer satisfaction (CSAT), and market distribution across Bolt customer support tickets.
 
----[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pescebello-8olt-project-main-test-streamlite.streamlit.app)
+---
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pescebello-8olt-project-main-test-streamlite.streamlit.app)
 
