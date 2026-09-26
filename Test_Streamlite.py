@@ -135,8 +135,8 @@ else:
     st.divider()
 
     tab1, tab2 = st.tabs(['📉 Operational Benchmarks', '📋 Raw Data Inspector'])
-    st.write('**Volume by Channel**')
     with tab1:
+        st.write('**Volume by Channel**')
         fig = px.histogram(
             filtered_df,
             x='CSAT Score',
