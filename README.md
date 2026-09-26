@@ -4,6 +4,11 @@ An interactive performance dashboard built with Python, Streamlit, and Plotly Ex
 
 ---
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pescebello-8olt-project-main-test-streamlite.streamlit.app)
+
+---
+
+
 ## 📊 Business Problem & Features
 
 This tool enables operations managers and support leads to identify operational bottlenecks and performance trends.
