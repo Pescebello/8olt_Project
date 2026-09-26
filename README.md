@@ -1,4 +1,4 @@
-# 🛴 Bolt Operations & Customer Support Analytics Dashboard
+# 🛴 ßolt Operations & Customer Support Analytics Dashboard
 
 An interactive performance dashboard built with Python, Streamlit, and Plotly Express to monitor real-time operational efficiency, customer satisfaction (CSAT), and market distribution across Bolt customer support tickets.
 
@@ -32,7 +32,7 @@ This tool enables operations managers and support leads to identify operational 
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/YOUR-GITHUB-USERNAME/Bolt-Operations-Dashboard.git](https://github.com/YOUR-GITHUB-USERNAME/Bolt-Operations-Dashboard.git)
-   cd Bolt-Operations-Dashboard
+   cd ßolt-Operations-Dashboard
    ```
 
 2. **Set up a virtual environment:**

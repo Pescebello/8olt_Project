@@ -74,6 +74,6 @@ df = pd.DataFrame({
     'customer_tier' : tkt_customer_tiers,
 })
 
-df.to_csv('Bolt_ticket_data.csv', index=False)
+df.to_csv('ßolt_ticket_data.csv', index=False)
 
 print(df.head)

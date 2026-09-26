@@ -4,13 +4,13 @@ import plotly.express as px
 import streamlit as st
 from Database import df
 
-st.set_page_config(page_title='Bolt Customer Support Analytics', page_icon='🛴', layout='wide')
+st.set_page_config(page_title='ßolt Customer Support Analytics', page_icon='🛴', layout='wide')
 
 col_logo, col_title = st.columns([1, 4], vertical_alignment='center')
 
 col_logo.image('vecteezy_customer-satisfaction-icon-style_13695803.jpg')
 
-col_title.title('Bolt Operations Dashboard')
+col_title.title('ßolt Operations Dashboard')
 
 st.caption("<p style='text-align: center;'>Real-time performance metrics tracking resolution efficiency, CSAT, and market distribution.</p>",
     unsafe_allow_html=True,)
@@ -111,9 +111,10 @@ else:
         )
         fig_sunburst.update_traces(
             textinfo='label+value',
-            textfont_size=12)
+            textfont_size=12
+        )
 
-        st.plotly_chart(fig_sunburst, width='stretch')
+        st.plotly_chart(fig_sunburst, use_container_width=True)
 
     st.write('**Performance Overview**')
 
@@ -129,7 +130,7 @@ else:
         title=f"Average {y_axis_choice.replace('_', ' ').title()} by {x_axis_choice.title()}"
     )
 
-    st.plotly_chart(fig_dynamic, width='stretch')
+    st.plotly_chart(fig_dynamic, use_container_width=True)
 
     st.divider()
 
@@ -146,7 +147,9 @@ else:
             text_auto=True,
             height=320
         )
-        st.plotly_chart(fig, width='stretch')
+
+        st.plotly_chart(fig, use_container_width=True)
+
     with tab2:
         st.write("**Filtered Ticket Data View**")
         cols = ['tickets_ID',
